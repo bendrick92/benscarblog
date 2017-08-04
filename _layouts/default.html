@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        {% include head.html %}
+        {% include google_tag_manager_head.html %}
+    </head>
+    <body>
+        {% include google_tag_manager_body.html %}
+        {% include header.html %}
+        <main>
+            {{ content }}
+        </main>
+        {% include footer.html %}
+    </body>
+    {% include scripts.html %}
+</html>

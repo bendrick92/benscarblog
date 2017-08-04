@@ -1,0 +1,32 @@
+#post-intro {
+    color: $white;
+    h2, p {
+        opacity: 0;
+        @include animation(fade-in-slide-up 1s forwards);
+    }
+}
+#post-content {
+    color: $dark-gray;
+    img {
+        margin: 0 auto;
+        display: block;
+    }
+}
+
+@include phone-and-tablet {
+    #post-content {
+        img {
+            width: 100%;
+            max-width: 100%;
+        }
+    }
+}
+
+@include desktop {
+    #post-content {
+        img {
+            width: 75%;
+            max-width: 75%;
+        }
+    }
+}

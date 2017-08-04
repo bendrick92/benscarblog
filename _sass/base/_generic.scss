@@ -1,0 +1,108 @@
+html {
+    height: 100%;
+}
+body {
+    min-height: 100vh;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: $dark-gray;
+    @include flexbox;
+    @include flex-direction(column); 
+    main {
+        margin: $header-height 0 0;
+        @include flex(1);
+        @include flexbox;
+        @include flex-direction(column);
+        section {
+            position: relative;
+            &.is-fill {
+                height: 100%;
+                @include flex(1);
+                @include flexbox;
+                @include flex-direction(column);
+            }
+            &.is-screen-fill {
+                width: 100%;
+                @include calc(height, '100vh - #{$header-height}');
+                @include flex(1);
+                @include flexbox;
+                @include flex-direction(column);
+            }
+            &.is-intro-section {
+                padding: $header-height 0 0;
+                margin: -#{$header-height} 0 0;
+            }
+        }
+    }
+}
+
+iframe {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+a {
+    color: $blue;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
+
+blockquote {
+    padding: 0 0 0 .5em;
+    margin: 0 .5em;
+    border-left: 0.2em solid $light-gray;
+    p {
+        font-style: italic;
+    }
+}
+
+hr {
+    height: 1px;
+    padding: 0;
+    border: 0;
+    border-top: 1px solid #E7E7E7;
+    display: block;
+}
+
+h1, h2, h3, h4 {
+    margin: 1.25rem 0;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    &.is-thin {
+        font-weight: 300;
+    }
+    a {
+        color: $dark-gray;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-size: 38px;
+}
+h3 {
+    font-size: 30px;
+}
+h4 {
+    font-size: 25px;
+}
+
+p, ul, ol, hr, img, iframe, blockquote {
+    margin-top: 0;
+    margin-bottom: 1.25rem;
+    line-height: 1.75rem;
+}
