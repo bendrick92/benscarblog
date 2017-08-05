@@ -51,6 +51,21 @@
         font-size: .8em;
     }
 }
+.is-intro-section {
+    .intro-title {
+        padding: 3rem 0;
+        text-align: center;
+        color: $white;
+        h1 {
+            padding: 1.5rem;
+            border: 1px solid $white;
+            display: inline-block;
+            span {
+                font-weight: 200;
+            }
+        }
+    }
+}
 ul {
     &.is-unstyled-list {
         padding: 0;

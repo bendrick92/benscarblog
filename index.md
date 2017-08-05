@@ -12,7 +12,8 @@ pagination:
         <div class="container has-middle-text">
             <div class="item flex-100">
                 <div class="intro-title">
-                    <h1><span>Ben's</span> Car Blog</h1>
+                    <h1 class="is-hidden-mobile is-hidden-tablet"><span>Ben's</span> Car Blog</h1>
+                    <h1 class="is-hidden-desktop"><span>Ben's</span><br>Car Blog</h1>
                     <p class="is-subheading">Guides, Reviews, Opinions</p>
                 </div>
             </div>

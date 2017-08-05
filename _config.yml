@@ -38,6 +38,9 @@ collections:
   posts:
     output: true
     permalink: /:title/
+  cars:
+    output: true
+    permalink: /garage/:title/
 pagination:
   enabled: true
   per_page: 2

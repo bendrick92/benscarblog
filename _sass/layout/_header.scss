@@ -7,6 +7,10 @@ header {
     z-index: 1000;
     .container {
         @include align-items(center);
+        .item {
+            padding-top: 0;
+            padding-bottom: 0;
+        }
     }
     .site-title {
         font-family: 'Montserrat', sans-serif;
