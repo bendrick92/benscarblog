@@ -16,6 +16,10 @@ body {
         @include flex-direction(column);
         section {
             position: relative;
+            &.is-intro-section {
+                padding: $header-height 0 0;
+                margin: -#{$header-height} 0 0;
+            }
             &.is-fill {
                 height: 100%;
                 @include flex(1);
@@ -24,14 +28,12 @@ body {
             }
             &.is-screen-fill {
                 width: 100%;
-                @include calc(height, '100vh - #{$header-height}');
+                height: 100vh;
+                margin-top: -#{$header-height};
+                padding-top: $header-height;
                 @include flex(1);
                 @include flexbox;
                 @include flex-direction(column);
-            }
-            &.is-intro-section {
-                padding: $header-height 0 0;
-                margin: -#{$header-height} 0 0;
             }
         }
     }
@@ -105,4 +107,22 @@ p, ul, ol, hr, img, iframe, blockquote {
     margin-top: 0;
     margin-bottom: 1.25rem;
     line-height: 1.75rem;
+}
+
+@include phone-and-tablet {
+    main {
+        img {
+            width: 100%;
+            max-width: 100%;
+        }
+    }
+}
+
+@include desktop {
+    main {
+        img {
+            width: 75%;
+            max-width: 75%;
+        }
+    }
 }
