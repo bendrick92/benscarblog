@@ -14,7 +14,7 @@ pagination:
                 <div class="intro-title">
                     <h1 class="is-hidden-mobile is-hidden-tablet"><span>Ben's</span> Car Blog</h1>
                     <h1 class="is-hidden-desktop"><span>Ben's</span><br>Car Blog</h1>
-                    <p class="is-subheading">Guides, Reviews, Opinions</p>
+                    <p class="is-subheading">Reviews, How-Tos, Everything Cars</p>
                 </div>
             </div>
         </div>
