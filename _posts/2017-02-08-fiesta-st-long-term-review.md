@@ -6,7 +6,7 @@ categories: reviews fiestast
 image: https://assets.bpwalters.com/images/bens_car_blog/fiesta_gauges.jpg
 ---
 
-As the odometer on my 2014 Fiesta ST recently ticked over 36,000 miles, it seems fitting to take some time and reflect on the last few years of ownership.
+<span class="is-first-letter">A</span>s the odometer on my 2014 Fiesta ST recently ticked over 36,000 miles, it seems fitting to take some time and reflect on the last few years of ownership.
 
 While I can't say the last ~32,000 miles of ownership have been *perfect*, I can say that I'm grateful for every single one of them.  The ST has its quirks, some of which are my own fault (more on that later).  Overall though, it has given me a greater appreciation for the joy of driving, introduced me to some awesome people, and helped me through some tough times.
 

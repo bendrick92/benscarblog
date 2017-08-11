@@ -101,6 +101,14 @@ p {
         font-size: .9em;
         text-transform: uppercase;
     }
+    .is-first-letter {
+        margin-top: 1.1rem;
+        margin-right: .5rem;
+        float: left;
+        font-size: 3.5rem;
+        font-weight: 900;
+        font-family: 'Lato', sans-serif;
+    }
 }
 
 @include phone {

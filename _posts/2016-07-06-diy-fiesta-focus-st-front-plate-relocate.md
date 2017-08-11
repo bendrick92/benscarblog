@@ -6,7 +6,7 @@ categories: diy
 image: https://assets.bpwalters.com/images/bens_car_blog/fiesta_front_plate_1.jpg
 ---
 
-From the dealership, most Ford ST models have their license plates riveted directly to the front bumper.  Many owners, myself included, have found this to be aesthetically unappealing, or in some cases simply just inconvenient to clean around.
+<span class="is-first-letter">F</span>rom the dealership, most Ford ST models have their license plates riveted directly to the front bumper.  Many owners, myself included, have found this to be aesthetically unappealing, or in some cases simply just inconvenient to clean around.
 
 Rather than invest $100+ in an alternative, removable front plate bracket, I decided to experiment with affixing my Fiesta ST's front plate to the upper honeycomb grille using only supplies I found at my local hardware store.
 

@@ -8,7 +8,7 @@ image: https://assets.bpwalters.com/images/bens_car_blog/fiesta_sound_deadening_
 
 #### Economy Roots
 
-For all its performance and fun, the Fiesta ST is still an economy car, and keeping the price affordable means making some sacrifices.
+<span class="is-first-letter">F</span>or all its performance and fun, the Fiesta ST is still an economy car, and keeping the price affordable means making some sacrifices.
 
 No place is this more evident than when driving at highway speeds.  The combination of wind, tire, and other road noises can lead to a fatiguing ride on longer trips.
 

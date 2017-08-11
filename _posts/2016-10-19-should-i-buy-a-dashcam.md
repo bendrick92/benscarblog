@@ -8,7 +8,7 @@ image: https://assets.bpwalters.com/images/bens_car_blog/dash_cam_1.jpg
 
 #### What is a dashcam?
 
-A "dash cam" is a video camera designed for use in a vehicle, whose primary function is to record anything that might happen while you're driving.
+<span class="is-first-letter">A</span> "dash cam" is a video camera designed for use in a vehicle, whose primary function is to record anything that might happen while you're driving.
 
 Dash cams tend to differentiate themselves from other types of cameras through their robust construction, loop-based recording, and discreet designs.
 
