@@ -1,64 +1,72 @@
 ---
 layout: post
-title:  "Buying a WRX"
-date:   2017-08-09 11:05:00 -0500
+title: "Buying a WRX"
+date: 2017-08-09 11:05:00 -0500
 categories: guides wrx
 image: https://assets.bpwalters.com/images/bens_car_blog/wrx_2.jpg
 ---
 
-<span class="is-first-letter">A</span> few months ago I wrote a post in which I shared my thoughts on my ownership experience with my Fiesta ST. In it, I highlighted a number of the the ST's strengths: its handling, peppy personality, and balance of power and efficiency. Over the past three years its been reliable, surprisingly practical, and overall a blast to drive. However, at the end of that post, I also touched on a few of the ways I felt I'd outgrown the ST, noting that I felt ready for an upgrade.  I alluded to my dream of owning a Subaru WRX, but didn't explain exactly why.
+<span class="is-first-letter">A</span> few months ago I shared my thoughts on my ownership experience of my Fiesta ST, which you can read [here](/fiesta-st-long-term-review).  In short, I praised the ST for its sharp handling, peppy personality, and balance of power and efficiency.  However, I also highlighted a number of its flaws, including a harsh ride, cramped cabin, and uncomfortable seats. I closed by mentioning that I felt I had outgrown it in many ways, and alluded to a plan of upgrading to a Subaru WRX in the near future - something that has always been a dream of mine.
 
 #### Why a WRX?
 
-As a product of the Need For Speed/Fast and Furious generation, owning a WRX has been a dream of mine since I was tall enough to reach the TV. Unfortunately, I've never seriously pursued that dream, as finding a clean, well-maintained used WRX is laughably impossible, and new ones have always been out of my budget.
+As a child of the 90's and 2000's, I was raised on a steady diet of Need For Speed, Fast and Furious, and Hot Wheels. With the Subaru WRX featured in almost every car-related movie, TV show, or video game in the last 20 years, I spent most of my childhood dreaming about someday owning one. Unfortunately, between the cost of insurance, finances, timing, etc., I've never really been able to seriously pursue that dream.
 
-Shortly after picking up a Fiesta ST back in 2014, I made a promise to myself: that the next car I purchased **would be** a WRX. After three long years of dreaming, planning, and saving, I found myself finally ready to pull the trigger, and placed my order for a 2018 WRX Premium in Lapis Blue Pearl in late July.
+But shortly after picking up my Fiesta ST back in 2014, I made a promise to myself: that the next car I purchased **would be** a WRX. I put my mind to it, and spent the next three years planning, saving, and waiting. I found myself finally ready to pull the trigger earlier this July and placed an order for a 2018 WRX Premium in Lapis Blue Pearl.
 
 ![Placing my order](https://assets.bpwalters.com/images/bens_car_blog/wrx_ordering.jpg)
 
-With an ETA of 10-12 weeks, I knew I'd need some way to distract myself. In order to help pass the time, I decided I should document my experience!
+With an estimated delivery time of 10-12 weeks, I knew I'd need some way to distract myself...
 
-This post will be the first in a series designed to share my WRX journey in detail, from research and ordering, to purchasing, maintenance, and modding.  I'll identify a few things to know if/when you decide to start shopping for a new WRX of your own. As somebody who's spent an inordinate amount of time scouring forums, magazines, YouTube, and dealerships for information on the WRX, I'll do my best to distill everything into an organized, easy to understand format.
+I got to thinking about the types of things I had searched for during my research, and realized that one thing I hadn't come across was someone who had fully documented their ownership experience.  This seemed like a fun challenge, I'd give it a shot myself!
 
-Let's start with a little history lesson.
+So in that spirit, this post will be the first in a series designed to share my WRX journey in detail; from research and ordering, to purchasing, maintenance, and modding. I'll identify a few things to know if/when you decide to start shopping for a WRX of your own. As somebody who has already spent an unhealthy amount of time scouring forums, magazines, YouTube, and dealerships for information, I'll do my best to distill everything into an organized and easy to understand format.
 
-#### What's makes a WRX?
+To start, let's take a look back at the history of the WRX.
 
-The Subaru WRX was first introduced in 1992 as a high performance variant of the Impreza. With roots in performance rallying, and offering a unique blend of reliability, performance, it was an instant hit. Unfortunately, it took over ten years for the WRX to arrive in the North American market. Since then, there have been a number of evolutions of the WRX, each advancing the nameplate with unique performance, refinement, and styling improvements.
+#### WRX History
+
+The Subaru WRX was first introduced in 1992 as a high performance variant of the Impreza. With roots in performance rallying, and offering a unique blend of reliability, performance, it was an instant hit. Unfortunately, it took over ten years for the WRX to arrive in the North American market.
+
+Since then, there have been a number of evolutions of the WRX, each advancing the nameplate with unique performance, refinement, and styling improvements.
 
 #### What's new for 2018?
 
-With the latest generation of WRX (2015-present), Subaru opted for more subdued styling and focused on a more refined driving experience. However, the basic ingredients of the WRX formula are still there: all-wheel drive, massive hood scoop, flat-four turbo "Boxer" engine, based on the Impreza chassis.
+With the latest generation of WRX (2015-present), Subaru opted for more subdued styling and focused on a more refined driving experience. However, the basic ingredients of the WRX formula are all still there: all-wheel drive, huge hood scoop, flat-four turbo "Boxer" engine, and based on the Impreza chassis.
 
-For 2018, Subaru continued its tradition of "face-lifting" the WRX every three years of a six year model cycle. The WRX was given much-needed updates in two important areas: refinement and styling. While power delivery remains unchanged from the FA20 DIT engine, with 268hp and 258 lb-ft of torque, the cabin has been outfitted with higher resolution displays, gauges, and soft-touch materials. Thicker front glass, door seals, and a foam-filled header beam were added in an effort to reduce unwanted road noise. Additional improvements were made to the transmission synchros and clutch mechanism, resulting in a smoother shifting experience overall.
+For 2018, Subaru continued its tradition of giving the WRX a minor refresh every three years of a six year model cycle. The WRX was given much-needed updates in two important areas: refinement and styling.
 
-#### Why would I want one?
+While power delivery remains unchanged from the FA20 DIT engine, with 268hp and 258 lb-ft of torque, the cabin has been outfitted with higher resolution displays, gauges, and soft-touch materials. Thicker front glass, door seals, and a foam-filled header beam were added in an effort to reduce unwanted road noise. Additional improvements were made to the transmission synchros and clutch mechanism, resulting in a smoother shifting experience overall.
 
-Arguing "which car is best" is pointless, but for me, the appeal of the WRX boils down to:
+#### Why is the WRX so special?
 
-- *Performance* - The numbers speak for themselves: 268 hp, 258 lb-ft torque, symmetrical AWD, 0-60 in approximately five seconds. Plus, if you're brave enough, a light tune and bolt-ons can easily see those numbers break 300.
-- *Practicality* - Being based on the Impreza, the WRX is a spacious vehicle for its size. In addition, excellent visibility all around helps contribute to an open feeling cabin. Four doors, a surprisingly spacious trunk (sadly no hatchback option), and standard roof rails (revived for 2018) make the WRX a great option for a daily driver.
-- *Safety* - An IIHS Top Safety Pick, the WRX exemplifies Subaru's commitment to safety. In addition, for drivers like myself who find themselves confronted with snow and/or rain on a regular basis, the tried-and-true AWD system inspires confidence and control.
-- *Aftermarket* - A healthy aftermarket (both performance and cosmetic) means you'll be hard pressed to find identical WRXs roaming the roads.  Door switches, climate control knobs, fender flares, headlights, taillights, etc.  You name it, somebody makes an aftermarket version of it.
+For me, the merits of the WRX are as follows:
+
+- *Performance* - The numbers speak for themselves: 268 hp, 258 lb-ft torque, symmetrical AWD, 0-60 in approximately five seconds. Plus, if you're willing to sacrifice your warranty, a light tune and bolt-ons can easily see those numbers break 300.
+- *Practicality* - Based on the Impreza, the WRX is a spacious vehicle for its size. In addition, excellent visibility all around helps contribute to an open feeling cabin. Four doors, a surprisingly spacious trunk (sadly no hatchback option), and standard roof rails (revived for 2018) make the WRX a great option for a daily driver.
+- *Safety* - An IIHS Top Safety Pick, the WRX exemplifies Subaru's commitment to safety. In addition, for drivers like myself who find themselves confronted with snow and/or rain on a regular basis, the tried-and-true AWD system inspires confidence and control through the rougher months.
+- *Aftermarket* - A healthy aftermarket (both performance and cosmetic) means you'll be hard pressed to find identical WRXs roaming the roads. Door switches, climate control knobs, fender flares, headlights, taillights, etc. You name it, somebody makes an aftermarket version of it.
 - *Reliability* - Market research supports the brand's touted reliabilty with "98% of Subaru vehicles sold in the last 10 years are still on the road today". (IHS, 2017)
-- *Ethics* - In an age of news peppered with "emission scandal" or "bankruptcy" headlines, automakers are under increasing pressure from consumers to be more environmentally-conscious as well as transparent.  Meanwhile, Subaru has continuously demonstrated a proactive attitude towards the environment.  By becoming the first "Zero-Landfill" American automaker as well as contributing to environmental sustainability research and development, Subaru has done an admirable job of putting their resources where it counts.
-- *Community* - Ahhh the "Subie Wave". There isn't a day that passes that I don't see two Subarus giving each other the "nod" as they pass on the road. With some of the most active forums and clubs in the world, from teenagers to retirees, it seems everyone appreciates a Subaru when they see one.
+- *Ethics* - In an age of news peppered with "emission scandal" and "bankruptcy" headlines, automakers are under increasing pressure to be more environmentally-conscious as well as transparent with consumers. In this regard, Subaru has continuously demonstrated an interest in environmental causes. By becoming the first "Zero-Landfill" American automaker as well as contributing to environmental sustainability research and development, Subaru has done an admirable job of putting their resources where it counts.
+- *Community* - The "Subie Wave". There isn't a day that passes that I don't see two Subarus giving each other the nod as they pass. With some of the most active forums and clubs in the world, from teenagers to retirees, it seems everyone appreciates a Subaru when they see one.
 
-#### I want one - Now what?
+#### Ok so which one should I get?
 
-For the sake of brevity and simplicity, I'm going to assume you're interested in ordering a new one directly from the dealership.  I won't be discussing the used WRX market, but suffice to say there are always at least a few for sale.  However, it can be nearly impossible to track down an un-modified, low-mileage, affordable one. At the end of the day, it's always going to be a lot easier to walk into a dealership and order one yourself.  Not to mention, you have the peace of mind of knowing exactly how it was maintained/driven!
+For the sake of brevity and simplicity, I'm going to assume you're interested in ordering a new one directly from the dealership. I won't be discussing the used WRX market, but suffice to say there are always at least a few for sale. However, it can be nearly impossible to track down an un-modified, low-mileage, affordable one. At the end of the day, it's always going to be a lot easier to walk into a dealership and order one yourself. Not to mention, you have the peace of mind of knowing exactly how it was maintained/driven!
 
-At this point, you'll want to figure out what kinds of features are important to you, as the WRX comes in three main trim levels (we're not covering the STI here): Base, Premium, and Limited. For example, if you're the type of person who needs leather seats, a sunroof, and in-car navigation, you'll have to pony up for a Limited trim. For comparison, here's an super-simplified breakdown of the differences between the trim levels:
+You'll want to decide what kinds of features are important to you, as the WRX comes in three trim levels (not counting the STI here): Base, Premium, and Limited. For example, if you're the type of person who needs leather seats, a sunroof, and in-car navigation, you'll have to pony up for a Limited trim.
+
+For comparison, here's an simplified breakdown of the differences between the trim levels:
 
 - *Base* - 17" wheels, halogen headlights, heated mirrors, 6.2" touch screen, cloth seats
 - *Premium* - 18" wheels, fog lights, 7" touch screen, moonroof, heated cloth seats, optional CVT transmission
 - *Limited* - LED steering-responsive headlights, keyless push-button start, leather seats with power adjustments
 
-NOTE: For more details on the different trims [cars101.com](http://www.cars101.com) is sort of the internet's unofficial "Subaru encyclopedia".
+NOTE: For more details on the different trims [cars101.com](http://www.cars101.com) is sort of the internet's unofficial "Subaru Encyclopedia".
 
-In my opinion, the Premium trim level is the best value, as it adds a number of important upgrades (nicer wheels, better stereo touchscreen, heated seats) over the Base model. Some argue that the Base is all that's necessary, but items like heated seats or a sunroof aren't readily available as aftermarket options, so you'll need to keep that in mind.
+In my opinion, the Premium trim level is the best value, as it adds a number of important upgrades (nicer wheels, better stereo screen, heated seats) over the Base model. On the other hand, some argue that the Base is all that's necessary, thanks to the WRX's saturated aftermarket. But keep in mind that items like heated seats or a sunroof aren't readily available as aftermarket options.
 
-#### So how much should I pay?
+#### How much should I pay?
 
 Factory pricing for the 2018 is as follows (invoice/MSRP):
 
@@ -70,21 +78,34 @@ Factory pricing for the 2018 is as follows (invoice/MSRP):
 
 NOTE: These prices include the required $860 "destination and delivery" charge.
 
-A closer look at the official pricing sheet from Subaru reveals a number of additional fees like "hold-back", "marketing assistance", "floor plan", and "gas allowance". Simply put, these items are basically an allowance extended to the dealership from Subaru for various expenses associated with selling the car. As this information is not widely advertised, most dealerships won't even itemize them separately when listing the vehicle for sale. In negotiating with a dealership, some amount of these "kickbacks" below invoice can be sacrificed in an effort to give a better price, but don't expect too much wiggle room.
+A closer look at the official pricing sheet from Subaru reveals a number of additional fees like "hold-back", "marketing assistance", "floor plan", and "gas allowance".
 
-On that note, one important distinction to make between Subaru and other manufacturers is the almost complete lack of incentives. With low-volume, high-demand, specialty vehicles like the WRX in particular, Subaru doesn't need to offer special incentives to sell them. This is atypical when compared to the numerous "manufacturer discounts" offered by other brands. For example, when I cross-shopped the WRX with a new GTI, the Volkswagen dealership I talked to was able to immediately offer $1,500 off the MSRP thanks to a current "manufacturer incentive" on top of a load of other discounts. WRX's are different; dealerships know they will sell, so there's no need to lure in buyers with steep discounts right out of the gate.
+![WRX Pricing](https://assets.bpwalters.com/images/bens_car_blog/wrx_pricing.jpg)
+
+Simply put, these items are basically an allowance extended to the dealership from Subaru for various expenses associated with selling the car. As this information is not widely advertised, most dealerships won't even itemize them separately when listing the vehicle for sale. In negotiating with a dealership, some amount of these "kickbacks" below invoice can be sacrificed in an effort to give a better price, but don't expect *too* much wiggle room.
+
+On that note, one important distinction to make between Subaru and other manufacturers is the lack of financial incentives.
+
+With low-volume, high-demand, specialty vehicles like the WRX in particular, Subaru doesn't need to offer special incentives to sell them. This is atypical when compared to the usual "manufacturer discounts" offered by other brands.
+
+For example, when I cross-shopped the WRX with a new GTI, the Volkswagen dealership I worked with was able to offer $1,500 off the MSRP almost immediately thanks to a "manufacturer incentive" on top of a load of other discounts. WRX's are different; dealerships know they will sell, so there's little need to lure in buyers with deep price reductions.
 
 #### How do I get the best price?
 
-Negotiation tactics vary widely from dealership to dealership. Some dealerships won't budge on their sticker price, and will laugh you away if you walk in looking for a discount, while others will publicly advertise their cars for well under MSRP. It all depends on your region and dealerships.
+That's where things get tricky as negotiation tactics vary widely from dealership to dealership. Some dealerships won't budge on their sticker price, and will laugh you away if you walk in looking for a discount, while others will publicly advertise their cars for well under MSRP. It all depends on your region and dealerships.
 
-Thankfully, there's a secret weapon you can use to negotiate almost any dealership below invoice, and it's called Heuberger Subaru.
+Thankfully, there's a little secret you can use to negotiate almost *any* dealership below invoice.
 
 #### Heuberger Subaru
 
-Heuberger Subaru is the nation's highest-volume Subaru dealership. Since they're allocated and sell so many vehicles, they're able to offer their cars for *significantly* lower margins than other dealerships.  In addition, Heuberger's online sales team regularly solicits sales via a number of the most popular Subaru forums, like [IWSTI](http://www.iwsti.com), [NASIOC](http://www.nasioc.com), and [ClubWRX](http://www.clubwrx.net).
 
-If you're ready to purchase, you'll want to get a quote from their internet sales team.  As of writing, Tom Kushnerick ([thomask@hmtrs.com](mailto:thomask@hmtrs.com)) currently handles most forum orders. Tom is extremely responsive and willing to answer any and all questions about WRX ordering. Most importantly, he's able to provide you with a no-hassle quote over email. Below is an example of the type of email you'll want to send to him:
+![Heuberger Subaru](https://assets.bpwalters.com/images/bens_car_blog/heuberger_subaru.jpg)
+
+Heuberger Subaru is the nation's highest-volume Subaru dealership. Since they're allocated and sell so many vehicles, they're able to offer their cars for *significantly* lower margins than other dealerships. In addition, Heuberger's online sales team regularly works with customers via forums such as [IWSTI](http://www.iwsti.com), [NASIOC](http://www.nasioc.com), and [ClubWRX](http://www.clubwrx.net). If you're ready to purchase (even if you don't plan on buying from them), you'll want to get a quote from their internet sales team *first*.
+
+As of writing, Tom Kushnerick ([thomask@hmtrs.com](mailto:thomask@hmtrs.com)) handles most forum/internet-based orders. Tom is a super nice guy and always willing to answer any questions about WRX ordering you might have. Most importantly however, he's able to provide you with a no-hassle quote over email.
+
+Below is an example of the type of email you'll want to send to him:
 
 <blockquote>Hi Tom,
 
@@ -103,7 +124,7 @@ Kind regards,
 
 (your name here)</blockquote>
 
-Depending on the time of year, you should hear back within a few business days. He may have a few questions, but should provide a quote that looks something like this:
+Depending on the time of year, you should hear back from Heuberger within a few business days. Eventually you'll be provided with a quote that looks something like this:
 
 <blockquote>Vehicle Model and Trim Level
 JUO
@@ -131,15 +152,17 @@ It only takes a $1,000 deposit to start your build order, or to secure a car tha
 
 Please allow us the opportunity to handle your finance business. One of the ways we keep our forum pricing so low, is by capturing a small fee from the lenders, while meeting or beating your pre-approved rate. We also offer competitive pricing on window tinting, clear masks, and paint protection packages. Let me know if you’d like any of the options installed before we ship the car to you.
 
-If you’d rather drive your new car home, we do offer courtesy pickup at Colorado Springs Airport and Denver International Airport. When flying into Denver International, please make sure to arrive between 9am to 2pm, Monday through Friday or we cannot offer courtesy pickup (I’m off Thursdays FYI). If you’re flying into the Springs, I can come get you between 9-4pm Monday through Saturday (except Thursdays).Please reach out to me directly before booking any flights to make sure I can assist you in person !
+If you’d rather drive your new car home, we do offer courtesy pickup at Colorado Springs Airport and Denver International Airport. When flying into Denver International, please make sure to arrive between 9am to 2pm, Monday through Friday or we cannot offer courtesy pickup (I’m off Thursdays FYI). If you’re flying into the Springs, I can come get you between 9-4pm Monday through Saturday (except Thursdays). Please reach out to me directly before booking any flights to make sure I can assist you in person !
 
 Thank you again for your potential business, I look forward to helping you get your new Subie!!</blockquote>
 
-And that's it! At this point, you can always accept Tom's offer and purchase the vehicle through Heuberger.  However, Heuberger's quote can also be used as leverage with local dealerships.
+And that's it!  You've got your lowest possible quote.
 
-#### Negotating with other dealerships
+At this point, you can always accept Tom's offer and purchase the vehicle through Heuberger. However, if you're interested in buying locally, and willing to do a bit of work, Heuberger's quote can also be used to negotiate other dealerships to lower their prices.
 
-Simply take the vehicle sale price as quoted by Heuberger, add any applicable fees and email your local dealership(s) like so:
+#### Negotiating with other dealerships
+
+While it may sound intimidating, this part is actually pretty simple.  Just take the vehicle sale price as indicated by Heuberger, add any applicable fees (such as shipping, tax, title, license, etc.) and email your local dealership(s) like so:
 
 <blockquote>To whom it may concern,
 
@@ -156,17 +179,23 @@ Kind regards,
 
 (your name here)</blockquote>
 
-Now you wait! If a dealership is serious about earning your business, they should reply in a few days. In my experience, there will be some dealerships who insist on talking over the phone. If you are willing, this can be a good opportunity to get a feel for the type of salesperson you'll be working with. If they simply email you back a quote of their own, even better! Once you receive a quote you're happy with, you have one of two options:
+If a dealership is serious about earning your business, you should get a response pretty quickly. In my experience, there will be some dealerships who insist on quoting you over the phone. If you're willing, this can be a great opportunity to get a feel for the type of salesperson you'll be working with (see below). If they simply email you back a quote of their own, even better!
 
-1. You can choose to proceed with ordering from that dealership. At this point, if you haven't already, I would recommend giving the salesperson a call to gauge their personality and attitude over the phone. While the car buying process should be as non-personal as possible (to minimize emotions and therefore the risk of overpaying), it's always nice to know the person in charge of your order will be responsive and enjoyable to work with.
-2. If you have a specific dealership in mind, and their initial quote is higher than other local offers, now is the time to leverage these quotes to your advantage. Take the best price you've gotten thus far (excluding Heuberger) and send your dealership of choice an email notifying them you have gotten a better offer from another, more local dealership. 9/10 times they will match or beat the offer.
+Either way, once you receive a quote you're happy with, you have one of two options:
 
-Once you've agreed on a price, it's time to get a written quote. I chose to go into the dealership and get a printed copy of the quote for my records (just in case they try and raise the sale price later). In addition, most dealerships will require a refundable deposit (typically $500 in my experience) to secure your order.
+1. You can choose to proceed with ordering from that dealership. At this point, if you haven't already, I would recommend giving that salesperson a call to gauge their personality and attitude over the phone. While the car buying process should be as non-personal as possible (to minimize emotions and therefore the risk of overpaying), it's always nice to know the person taking care of your order is going to be responsive and enjoyable to work with.
+2. If you have a specific dealership in mind, and their initial quote is higher than other local offers, now is the time to leverage those other quotes to your advantage. Take the best price you've gotten thus far (excluding Heuberger) and send your dealership of choice an email notifying them you have gotten a better offer from another local dealership. 9/10 times they will match or beat the offer.
 
-NOTE: It is a good idea to pay this deposit on a credit card, as well as get a receipt. That way, if the dealership tries to keep your deposit/fails to roll it into the sale price of the vehicle, you have documented proof of your payment and can always dispute the charge with your credit card company. It's always good to clarify that the deposit is refundable, too.
+#### Sealing the deal
 
-Finally, be sure to share any special requests with your dealership/salesperson. In my case, I requested that they not drill the holes for the USDM plates, as well as not put any dealership decals/stickers on the vehicle. In addition, I asked that they keep the roof/hood wrapping on the car (to make sure it's not washed before I take delivery of it).
+Once you've agreed on a price, it's time to get a written quote. I chose to go into the dealership and get a printed copy (just in case there's a mixup in pricing later on). In addition, most dealerships will require a refundable deposit (typically $500 in my experience) to secure your order, so bring some cash or your checkbook.
 
-It's that simple!  Now relax, congratulate yourself on negotiating the best price, and begin the waiting game.  Most vehicles take 10-12 weeks to be shipped stateside, but I've seen owners report as quickly as 6-8.  It all depends on allocation, availability, configuration, etc.  Vehicles with port-installed options (such as the Homelink mirror, short throw shifter, etc.) may take a bit longer as well.
+NOTE: This deposit should be *refundable* - be sure to clarify this with your dealership. Its also a good idea to pay this deposit on a credit card and get a *printed receipt*. That way, if the dealership tries to keep your deposit or fails to discount it from the sale price of the vehicle, you have documented proof of your payment and can always dispute the charge with your credit card company.
 
-In the next post, I'll highlight...
+Finally, be sure to share any special requests with your salesperson. In my case, I requested that they not drill the holes for the USDM plates, as well as not put any dealership decals or stickers on the vehicle. In addition, I asked that they keep the roof/hood wrapping on the car (to make sure it's not washed before I take delivery of it).
+
+#### Congratulations!
+
+And that's it! Now relax, give yourself a pat on the back for getting the best price, and settle in for a bit of a wait. Most vehicles take 10-12 weeks to be shipped stateside, but I've seen owners report deliveries as quickly as 6-8. It all depends on allocation, availability, configuration, etc. Vehicles with port-installed options (such as the Homelink mirror, short throw shifter, etc.) may take a bit longer.
+
+I hope this has been helpful for you!  In my next post I'll be going over a few considerations to make when planning the vehicle delivery, including paint protection measures, window tinting, as well as a few essential aftermarket accessories. In the meantime, feel free to share your thoughts, opinions, or questions in the comments below!
