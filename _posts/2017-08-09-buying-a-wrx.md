@@ -6,7 +6,7 @@ categories: guides wrx
 image: https://assets.bpwalters.com/images/bens_car_blog/wrx_2.jpg
 ---
 
-<span class="is-first-letter">A</span> few months ago I shared my thoughts on my ownership experience of my Fiesta ST, which you can read [here](/fiesta-st-long-term-review).  In short, I praised the ST for its sharp handling, peppy personality, and balance of power and efficiency.  However, I also highlighted a number of its flaws, including a harsh ride, cramped cabin, and uncomfortable seats. I closed by mentioning that I felt I had outgrown it in many ways, and alluded to a plan of upgrading to a Subaru WRX in the near future - something that has always been a dream of mine.
+<span class="is-first-letter">A</span> few months ago I shared my thoughts on my ownership experience of my Fiesta ST, which you can read [here](/ford-fiesta-st-long-term-review).  In short, I praised the ST for its sharp handling, peppy personality, and balance of power and efficiency.  However, I also highlighted a number of its flaws, including a harsh ride, cramped cabin, and uncomfortable seats. I closed by mentioning that I felt I had outgrown it in many ways, and alluded to a plan of upgrading to a Subaru WRX in the near future - something that has always been a dream of mine.
 
 #### Why a WRX?
 

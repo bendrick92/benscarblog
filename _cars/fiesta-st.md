@@ -54,7 +54,7 @@ mods:
             </div>
             <div class="item flex-100">
                 <p>After graduating college in the summer of 2014, I found myself searching for a replacement for my 2000 Mercury Cougar.  Unpredictable alternator issues and a new full-time job left me wanting for something more reliable and preferably turbocharged.  I spent a few weeks looking at used STIs, WRXs, etc. but in the end I found myself behind the wheel of a practically new (1971 miles on the odometer) 2014 Fiesta ST.</p>
-                <p>The ST served as my daily driver for a little over three years.  Along the way, I made a few minor performance mods, but wanted to retain the factory warranty.  I never really sunk a ton of money into the vehicle, as I had always planned to upgrade to a WRX at some point in the future.  Overall, my three years with the ST were overwhemingly enjoyable and trouble free.  For more details on the Fiesta ST, feel free to check out my full <a href="/fiesta-st-long-term-review" target="_blank">long term review</a>.</p>
+                <p>The ST served as my daily driver for a little over three years.  Along the way, I made a few minor performance mods, but wanted to retain the factory warranty.  I never really sunk a ton of money into the vehicle, as I had always planned to upgrade to a WRX at some point in the future.  Overall, my three years with the ST were overwhemingly enjoyable and trouble free.  For more details on the Fiesta ST, feel free to check out my full <a href="/ford-fiesta-st-long-term-review" target="_blank">long term review</a>.</p>
             </div>
         </div>
     </section>
