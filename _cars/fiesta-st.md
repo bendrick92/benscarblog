@@ -42,7 +42,7 @@ mods:
             </div>
             <div class="item flex-33 is-center-aligned">
                 <h2>Sold</h2>
-                <h4 class="is-thin">Pending</h4>
+                <h4 class="is-thin">September 2017</h4>
             </div>
         </div>
     </section>

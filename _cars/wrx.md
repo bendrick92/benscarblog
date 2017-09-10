@@ -3,6 +3,8 @@ layout: default
 url: /garage/wrx/
 image: https://assets.bpwalters.com/images/bens_car_blog/wrx_1.jpg
 title: WRX
+mods:
+- Grimmspeed front plate relocate
 ---
 
 <section id="fiesta-st">
@@ -20,27 +22,30 @@ title: WRX
     </section>
     <section id="details">
         <div class="container">
-            <div class="item flex-100 is-center-aligned">
+            <div class="item flex-50 is-center-aligned">
                 <h2>Purchased</h2>
-                <h4 class="is-thin">Coming Soon!</h4>
+                <h4 class="is-thin">September 2017</h4>
+            </div>
+            <div class="item flex-50">
+                <h2 class="is-center-aligned">Mods</h2>
+                <ul>
+                {% for mod in page.mods %}
+                    <li>{{ mod }}</li>
+                {% endfor %}
+                </ul>
             </div>
         </div>
     </section>
     <section id="history">
         <div class="container">
+            <div class="item flex-100 is-center-aligned">
+                <h2>History</h2>
+                <img src="https://assets.bpwalters.com/images/bens_car_blog/wrx_dealership.jpg">
+            </div>
             <div class="item flex-100">
-                <h2 class="is-center-aligned">History</h2>
-                <p>In early July 2017 I fulfilled a life-long dream and placed an order for a 2018 WRX; specifically a Premium in Lapis Blue (no options).</p>
-                <p>With delivery tentatively scheduled for late September 2017, I have been biding my time with a plan of attack:</p>
-                <p>
-                    <ul>
-                        <li>XPEL clear bra (full front bumper and hood)</li>
-                        <li>50% tint</li>
-                        <li>AMMO NYC Reflex with (TBD) sealant</li>
-                        <li>Full HID retrofit and painted headlight shrouds</li>
-                    </ul>
-                </p>
-                <p>There's a lot more to come, and I can't wait to share it all through the blog!</p>
+                <p>In early July 2017 I fulfilled a life-long dream and <a href="/buying-a-wrx">placed an order</a> for a 2018 WRX; specifically a Premium in Lapis Blue (no options).</p>
+                <p>After 9 long weeks of waiting, I took delivery of the car and immediately fell in love.  While I miss my ST dearly, the WRX has already proven to be a much more practical daily driver.</p>
+                <p>Plans for the car include a full overhaul of the stock headlights (HID retrofit, C-light upgrade, etc.), some basic interior improvements, as well as minor exterior cosmetic mods for now.  For at least the first year, I plan to keep the mods to a minimum.  Famous last words, right?</p>
             </div>
         </div>
     </section>
