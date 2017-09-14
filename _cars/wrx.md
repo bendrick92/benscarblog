@@ -5,6 +5,8 @@ image: https://assets.bpwalters.com/images/bens_car_blog/wrx_1.jpg
 title: WRX
 mods:
 - Grimmspeed front plate relocate
+- 30% tint
+- XPEL Ultimate paint protection film
 ---
 
 <section id="fiesta-st">
@@ -44,8 +46,8 @@ mods:
             </div>
             <div class="item flex-100">
                 <p>In early July 2017 I fulfilled a life-long dream and <a href="/buying-a-wrx">placed an order</a> for a 2018 WRX; specifically a Premium in Lapis Blue (no options).</p>
-                <p>After 9 long weeks of waiting, I took delivery of the car and immediately fell in love.  While I miss my ST dearly, the WRX has already proven to be a much more practical daily driver.</p>
-                <p>Plans for the car include a full overhaul of the stock headlights (HID retrofit, C-light upgrade, etc.), some basic interior improvements, as well as minor exterior cosmetic mods for now.  For at least the first year, I plan to keep the mods to a minimum.  Famous last words, right?</p>
+                <p>After 9 long weeks of waiting, I <a href="/taking-delivery-of-my-wrx">took delivery</a> of the car and immediately fell in love.  While I miss my Fiesta ST, the WRX has already proven to be a much more practical daily driver.</p>
+                <p>Short-tem plans for the car include a full overhaul of the stock headlights (HID retrofit, C-light upgrade, etc.), some basic interior improvements, as well as minor exterior cosmetic mods.</p>
             </div>
         </div>
     </section>
