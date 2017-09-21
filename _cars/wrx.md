@@ -7,6 +7,7 @@ mods:
 - Grimmspeed front plate relocate
 - 30% tint
 - XPEL Ultimate paint protection film
+- Perrin Shift Stop
 ---
 
 <section id="fiesta-st">
