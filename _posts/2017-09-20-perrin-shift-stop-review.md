@@ -10,8 +10,6 @@ image: https://assets.bpwalters.com/images/bens_car_blog/perrin_shift_stop.jpg
 
 While the clutch pedal itself is fairly linear, it's severely lacking in feedback.  This makes it difficult to feel the engagement point, and has resulted in a number of jerky takeoffs.  Whereas the ST clutch was springy but predictable, the WRX has proven much more challenging to master.  While I'm optimistic that continued practice with the clutch will smooth things out, another point of concern has been the shifter itself.
 
-#### Giving a Shift
-
 For 2018, Subaru noted a few upgrades to the transmission:
 
 <blockquote>"...significantly enhanced shifter feel for the 6-speed manual transmission, with a new synchro design and reduced friction"</blockquote>
@@ -21,8 +19,6 @@ While this **looks** great on paper, how does it translate to everyday drivabili
 Unfortunately, while the engagement and overall feel of the shifter has been improved (compared to the 2014 and 2017 WRXs I've driven), there's still a TON of side-to-side movement when the car is in gear, primarily in first and second.  Fortunately, this isn't a new issue for the WRX, so there's already a healthy selection of aftermarket solutions to choose from.
 
 I ended up going with the [Perrin Shift Stop](http://amzn.to/2xSmzjw) because...well pretty much everyone on the Internet recommends it.
-
-#### Stop the Slop
 
 The Shift Stop itself is very solid - adorned only with a small Perrin logo.  All the necessary hardware and instructions are included, and installation was super straightforward.
 
@@ -36,8 +32,8 @@ With less time spent fumbling around at stoplights, I was able to focus more con
 
 There's still a bit of movement with the shifter in gear, but it sounds like the Perrin Brass Shifter Bushing helps tighten things up even further, so that'll have to be a future purchase.
 
-#### Closing Thoughts
-
 Overall, I am extremely pleased with the Perrin Shift Stop, and would highly recommend picking one up.  As far as bang-for-buck goes, it might be the best cheap mod you can make to your WRX.
+
+UPDATE: I finally got around to installing the washers included with the Shift Stop.  While I didn't think they'd make much of a difference, I was wrong!  The shifter unit as a whole is MUCH more solid feeling.  In addition to the side-to-side rigidity added by the Stop, the spacers prevent any additional flex with the car in-gear.
 
 ![Perrin Shift Stop](https://assets.bpwalters.com/images/bens_car_blog/perrin_shift_stop_installed.jpg)

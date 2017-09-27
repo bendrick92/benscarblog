@@ -6,11 +6,7 @@ categories: diy
 image: https://assets.bpwalters.com/images/bens_car_blog/fiesta_sound_deadening_1.jpg
 ---
 
-#### Economy Roots
-
-<span class="is-first-letter">F</span>or all its performance and fun, the Fiesta ST is still an economy car, and keeping the price affordable means making some sacrifices.
-
-No place is this more evident than when driving at highway speeds.  The combination of wind, tire, and other road noises can lead to a fatiguing ride on longer trips.
+<span class="is-first-letter">F</span>or all its performance and fun, the Fiesta ST is still an economy car, and keeping the price affordable means making some sacrifices.  No place is this more evident than when driving at highway speeds.  The combination of wind, tire, and other road noises can lead to a fatiguing ride on longer trips.
 
 Fortunately, there's a simple solution: **sound deadening**.
 
@@ -18,7 +14,7 @@ The large metal panels of modern automobiles are notoriously susceptible to both
 
 In a simple terms, (from [Crutchfield](http://www.crutchfield.com/S-oEEGog0k67B/learn/learningcenter/car/vibration_installation.html)):
 
-> "(Sound) deadeners work by absorbing sound-causing vibration energy, eliminating speaker resonance, and baffling out excessive sound."
+<blockquote>"(Sound) deadeners work by absorbing sound-causing vibration energy, eliminating speaker resonance, and baffling out excessive sound."</blockquote>
 
 From the factory, the Fiesta ST comes with very little sound deadening, resulting in plenty of annoying vibrations and rattles at any speed.
 
