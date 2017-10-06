@@ -43,7 +43,7 @@ collections:
     permalink: /garage/:title/
 pagination:
   enabled: true
-  per_page: 5
+  per_page: 6
   permalink: /:num/
   sort_reverse: true
   trail:

@@ -194,8 +194,18 @@ NOTE: This deposit should be *refundable* - be sure to clarify this with your de
 
 Finally, be sure to share any special requests with your salesperson. In my case, I requested that they not drill the holes for the USDM plates, as well as not put any dealership decals or stickers on the vehicle. In addition, I asked that they keep the roof/hood wrapping on the car (to make sure it's not washed before I take delivery of it).
 
-#### Congratulations!
-
 And that's it! Now relax, give yourself a pat on the back for getting the best price, and settle in for a bit of a wait. Most vehicles take 10-12 weeks to be shipped stateside, but I've seen owners report deliveries as quickly as 6-8. It all depends on allocation, availability, configuration, etc. Vehicles with port-installed options (such as the Homelink mirror, short throw shifter, etc.) may take a bit longer.
 
-I hope this has been helpful for you!  In my next post I'll be going over a few considerations to make when planning the vehicle delivery, including paint protection measures, window tinting, as well as a few essential aftermarket accessories. In the meantime, feel free to share your thoughts, opinions, or questions in the comments below!
+#### Welcome to the family!
+
+While you await the arrival of your new car, you can start to settle in to the role of Subaru owner!  First, I recommend checking out any of the awesome Subaru forums online.  There's a huge variety to choose from, but one of the biggest and best is the [North American Subaru Impreza Owners Club (NASIOC)](http://www.nasioc.com).  Don't let the name mislead you - NASIOC is a wealth of information for any Subaru, not just Imprezas.  The community there is active and ever-growing.
+
+In addition to online forums, be sure to check Facebook or search around for local Subaru groups.  There's almost always something car-related going on during the summer months, so take advantage of the opportunity to get to know your Subaru neighbors!
+
+One of the most important connections to make however, is with a local Subaru Ambassador.  These folks are dedicated enthusiasts who have been hand-selected by Subaru themselves for the sole purpose of spreading some Subaru love through swag giveaways, organized meetups, and social media.  Beyond the awesome gear an Ambassador might give you, they are also allocated a number a Ambassador Coupons - a special $500 credit you can use *at the time of purchase* for some last-minute savings on your new Subaru.
+
+NOTE: Since dealerships are able to treat these Ambassador Coupons like a direct credit from Subaru, there's no need to mention that you have one until the time comes to sign the check.  It's to your advantage to present the coupon as late in the process as possible! 
+
+Finding an Ambassador local to you can be tricky, but good places to look are local Subaru Facebook groups, as well as the aforementioned forums.  Finally, Reddit has a dedicated Subaru Ambassador subreddit with an ["Ambassador Phonebook"](https://www.reddit.com/r/SubaruEmbassy/comments/6ewzpn/the_rsubaruembassy_phone_book/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=SubaruEmbassy) to help you get in touch with Ambassadors in your area.
+
+With all that said, I hope this post has been helpful for you!  Feel free to share your thoughts, opinions, or questions in the comments below!
