@@ -3,7 +3,7 @@ layout: post
 title: "XPEL Ultimate Review"
 date: 2017-10-04 18:53:00 -0500
 categories: reviews wrx 
-image: https://assets.bpwalters.com/images/bens_car_blog/xpel_hood.jpg
+image: https://assets.bpwalters.com/images/bens_car_blog/xpel_front.jpg
 ---
 
 <span class="is-first-letter">I</span>n the months leading up to the delivery of my WRX, I spent a fair amount of time researching what kinds of mods/upgrades most owners recommend.  One of the most frequently mentioned was paint protection film (AKA "clear bra") for the front of the car.
@@ -40,8 +40,15 @@ I agreed it was probably worth spending the extra cash now for the peace of mind
 
 When I stepped outside to examine their work, I couldn't help but grin.  The pre-cut XPEL templates they had used wrapped around most of the car's leading edges, leaving very few seams/lines for the eye to catch.  I was very happy with the result, and pleasantly surprised at how much of the car the XPEL had covered.
 
-![XPEL edges](https://assets.bpwalters.com/images/bens_car_blog/xpel_edge.jpg)
+![XPEL on the hood](https://assets.bpwalters.com/images/bens_car_blog/xpel_edge.jpg)
 
+![XPEL on the front of the hood](https://assets.bpwalters.com/images/bens_car_blog/xpel_front.jpg)
+
+![XPEL on the passenger mirror](https://assets.bpwalters.com/images/bens_car_blog/xpel_mirror.jpg)
+
+![XPEL on the hood scoop](https://assets.bpwalters.com/images/bens_car_blog/xpel_scoop.jpg)
+
+![XPEL on the rear spat](https://assets.bpwalters.com/images/bens_car_blog/xpel_spat.jpg)
 
 The 30% 3M tint job had turned out awesome as well.  Tom had recommended going 30%, as 50% tint (the legal limit in Minnesota) was barely noticeable on a darker car.
 
