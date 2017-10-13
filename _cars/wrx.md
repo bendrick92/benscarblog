@@ -8,6 +8,7 @@ mods:
 - 30% tint
 - XPEL Ultimate paint protection film
 - Perrin Shift Stop
+- Front & rear door sound deadening
 ---
 
 <section id="fiesta-st">
