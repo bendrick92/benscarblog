@@ -73,6 +73,12 @@ Everything was packaged well, and Don even included a sample kit of SDS's other 
 
 ![CCF and MLV sheets](https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_35.jpg)
 
+![Close-up of the CCF](https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_41.jpg)
+
+![Close-up of the CCF](https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_42.jpg)
+
+![Close-up of the MLV](https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_40.jpg)
+
 ![Velcro strips](https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_18.jpg)
 
 ![Vinyl cement](https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_19.jpg)
@@ -84,6 +90,8 @@ Upon inspecting everything, I was really impressed with the quality.  With all t
 I decided to start with the driver's side front door.  There are a pair of phillips head screws that need to be removed (hidden under covers); one in the upper handle cutout and another in the door pull cutout.  Then, simply reach your fingers around the lower edges of the door panel and pull outwards.  The pop clips will take some force to release so don't be shy.  Once you've released all of the clips, the panel should lift upwards off the support rail below the window glass.  The door switches and handle cables will still be connected, so go ahead and disconnect those before setting the panel aside.
 
 ![Driver's door panel](https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_2.jpg)
+
+![Door cable connections](https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_3.jpg)
 
 NOTE: Some sadist engineer positioned the window switch harness with it's clip facing the inside of the panel, making it almost completely inaccessible.  You'll have to feel around a bit, but it's there.
 
