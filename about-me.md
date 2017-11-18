@@ -25,6 +25,9 @@ layout: default
                 <p>Thanks for stopping by!</p>
                 <p>-Ben</p>
             </div>
+            <div class="item flex-100 is-center-aligned">
+                <img src="https://assets.bpwalters.com/images/bens_car_blog/wrx_fall_rear.jpg">
+            </div>
         </div>
     </section>
 </section>
