@@ -22,7 +22,13 @@ Walking up to it, my first impressions were how damn good the Lapis Blue Pearl l
 
 Moving on to the interior, I was really impressed with the changes made for 2018.  While subtle, they definitely add up to a more refined cabin.
 
-![Taking it out for a test drive](https://assets.bpwalters.com/images/bens_car_blog/wrx_pickup_test_drive.jpg)
+![View from the driver's seat](https://assets.bpwalters.com/images/bens_car_blog/wrx_pickup_test_drive.jpg)
+
+![Updated door pulls](https://assets.bpwalters.com/images/bens_car_blog/wrx_interior_door_pull.jpg)
+
+![Updated HVAC knobs](https://assets.bpwalters.com/images/bens_car_blog/wrx_hvac_knob.jpg)
+
+![Updated steering wheel leather](https://assets.bpwalters.com/images/bens_car_blog/wrx_steering_wheel_1.jpg)
 
 After a quick ~5 mile test drive, my salesman and I headed inside to talk over the paperwork.  Unfortunately, since it was so late in the afternoon and I hadn't yet contacted my credit union, I had to wait til the next day to finish everything.
 

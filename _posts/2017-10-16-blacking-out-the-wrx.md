@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blacking Out the WRX"
-date: 2017-10-11 19:15:00 -0500
+date: 2017-10-16 19:15:00 -0500
 categories: diy wrx 
 image: https://assets.bpwalters.com/images/bens_car_blog/wrx_black_grille_1.jpg
 ---
@@ -46,11 +46,17 @@ Getting the original badges off was pretty straightforward; the heat gun and tri
 
 #### Trunk Badges
 
-Next, I decided to debadge the driver's side of the trunk as well as swap the chrome WRX logo with a [gloss black replacement](http://amzn.to/2zeypBm) (purchased on [Amazon](http://amzn.to/2zeypBm)) to match the rest of the trim pieces.  This was super straightforward as all of the trunk badge lettering popped off cleanly after some encouragement from the heat gun.
+Next, I decided to debadge the driver's side of the trunk as well as swap the chrome WRX logo with a [gloss black replacement](http://amzn.to/2zeypBm) (purchased from [Subiebros](http://subiebros.com/wrx-trunk-badge/); I tried ordering two from [Amazon](http://amzn.to/2zeypBm) but both were broken or bent in transit) to match the rest of the trim pieces.  This was super straightforward as all of the trunk badge lettering popped off cleanly after some encouragement from the heat gun.
 
 ![Heating the driver's side badging](https://assets.bpwalters.com/images/bens_car_blog/wrx_debadge_1.jpg)
 
-![Finished debadging](https://assets.bpwalters.com/images/bens_car_blog/wrx_debadge_2.jpg)
+![Finished driver's side debadging](https://assets.bpwalters.com/images/bens_car_blog/wrx_debadge_2.jpg)
+
+![Replacement black WRX badge](https://assets.bpwalters.com/images/bens_car_blog/wrx_black_badge_1.jpg)
+
+![Original chrome WRX badge](https://assets.bpwalters.com/images/bens_car_blog/wrx_black_badge_3.jpg)
+
+![Replacement black WRX badge installed](https://assets.bpwalters.com/images/bens_car_blog/wrx_black_badge_2.jpg)
 
 #### Taillight Tint
 
