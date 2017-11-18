@@ -10,7 +10,7 @@ mods:
 - Alpine head unit, speakers
 ---
 
-<section id="cougar">
+<section id="cougar" class="car">
     <section id="intro" class="is-intro-section">
         <div class="background-image-wrapper is-dark">
             <div class="is-opaque" style="background-image: url('https://assets.bpwalters.com/images/bens_car_blog/cougar_1.jpg');"></div>

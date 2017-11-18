@@ -1,4 +1,14 @@
 footer {
-    margin: 2em 0;
-    text-align: center;
+    a.footer-icon {
+        margin: 0 .5em;
+        display: inline-block;
+        color: $dark-gray;
+        &:hover {
+            text-decoration: none;
+        }
+        span {
+            display: block;
+            font-size: 2rem !important;
+        }
+    }
 }

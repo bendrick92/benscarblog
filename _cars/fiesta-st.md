@@ -13,7 +13,7 @@ mods:
 - RAAMAudio sound deadening
 ---
 
-<section id="fiesta-st">
+<section id="fiesta-st" class="car">
     <section id="intro" class="is-intro-section">
         <div class="background-image-wrapper is-dark">
             <div class="is-opaque" style="background-image: url('https://assets.bpwalters.com/images/bens_car_blog/fiesta_1.jpg');"></div>
