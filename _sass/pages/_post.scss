@@ -1,5 +1,8 @@
 #post-intro {
     color: $white;
+    h2 {
+        margin: 1rem 0;
+    }
     h2, p {
         opacity: 0;
         @include animation(fade-in-slide-up 1s forwards);
