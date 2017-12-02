@@ -6,7 +6,7 @@ categories: detailing diy
 image: https://assets.bpwalters.com/images/bens_car_blog/winter_maintenance_wash/wrx_dirty_bumper.jpg
 ---
 
-<span class="is-first-letter">I</span> love washing my car.  Not only do I appreciate a clean car, but I find the experience almost therapeutic.  While others might consider it a chore (or just never wash their car *shudders*), it's an opportunity for me to step away from my computer/TV, get on my feet and get hands-on with something.  Having a mild case of OCD doesn't hurt either...
+<span class="is-first-letter">I</span> love washing my car.  Not only do I appreciate a clean car, but I find the experience almost therapeutic.  While others might consider it a chore (or just never wash their car...), it's an opportunity for me to step away from my computer/TV, get on my feet and get hands-on with something.  Having a mild case of OCD doesn't hurt either...
 
 Regardless, the weekly wash is something I don't take lightly - it helps maintain the appearance, protection, and value of my car.  Unfortunately, thanks to the freezing temperatures we experience for over half the year here in the Midwest, a traditional hose and bucket wash is out of the question from late October to early April.  So what's a neat freak like me to do?
 
