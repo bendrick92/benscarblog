@@ -20,6 +20,10 @@ header {
         text-decoration: none;
         color: $white;
         z-index: 1001;
+        img {
+            width: auto;
+            height: 3.5rem;
+        }
     }
     nav {
         text-align: right;
