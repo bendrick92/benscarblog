@@ -105,6 +105,8 @@ Heuberger Subaru is the nation's highest-volume Subaru dealership. Since they're
 
 As of writing, Tom Kushnerick ([thomask@hmtrs.com](mailto:thomask@hmtrs.com)) handles most forum/internet-based orders. Tom is a super nice guy and always willing to answer any questions about WRX ordering you might have. Most importantly however, he's able to provide you with a no-hassle quote over email.
 
+12/07/17 UPDATE: It looks like Tom is no longer the internet forum director for Heuberger.  For the most up-to-date contact info, check the [Heuberger Orders Thread](http://www.iwsti.com/forums/sti-prices-rates-ordering-options-tracking-discussions/275633-heuberger-motors-quote-request-thread-99.html) over on IWSTI.com.
+
 Below is an example of the type of email you'll want to send to him:
 
 <blockquote>Hi Tom,
