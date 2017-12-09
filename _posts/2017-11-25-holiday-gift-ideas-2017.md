@@ -8,6 +8,12 @@ image: https://assets.bpwalters.com/images/bens_car_blog/christmas_1.jpg
 
 <span class="is-first-letter">W</span>ith the holiday season rapidly approaching, it's time to start thinking about gifts for the gearhead in your life!  To help you out, I've put together a list of my favorite car-related products from the last year.
 
+#### WRX Christmas Sweater
+
+![WRX sweater](https://assets.bpwalters.com/images/bens_car_blog/wrx_christmas_sweater.jpg)
+
+Shameless plug, but I couldn't find a WRX-themed Christmas sweater that I liked, so I came up with my own design!  You can buy one of your own over on [TeeSpring](https://teespring.com/merry-wrxmas).  If you're a fan of the GR hatchback, there's a [design](https://teespring.com/hatch-yerself-a-merry-wrxmas) for that too!
+
 #### Optimum No Rinse
 
 ![Optimum No Rinse](https://assets.bpwalters.com/images/bens_car_blog/optimum_no_rinse.jpg)
