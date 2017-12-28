@@ -12,15 +12,18 @@ current_mods:
 - "[Front & rear door sound deadening](/sound-deadening-the-wrx/)"
 - "[Gloss black badging](/blacking-out-the-wrx/)"
 - Enkei YS5 (17x7.5) + General Altimax Arctic 12 (235/45R17) (winter wheels & tires)
+- "[Subiebros F1 rear fog light](/cleaning-up-the-rear-of-the-wrx/)"
+- "[Subiebros LED license plate lights](/cleaning-up-the-rear-of-the-wrx/)"
+- "[Carbon fiber e-brake handle](/carbon-e-brake-perrin-drift-button-review/)"
+- "[Perrin Drift Button](/carbon-e-brake-perrin-drift-button-review/)"
 future_mods:
 - RCE lowering springs
 - Painted headlight housing, HID/c-light retrofit
-- F1 rear foglight
 - LED foglights
-- Carbon e-brake handle
 - JDM dual console armrest
 - Tail-as-turn
 - Interior/exterior LEDs
+- Alcantara interior accents
 ---
 
 <section id="wrx" class="car">
@@ -69,7 +72,10 @@ future_mods:
             <div class="item flex-100">
                 <p>In early July 2017 I fulfilled a life-long dream and <a href="/buying-a-wrx">placed an order</a> for a 2018 WRX; a Premium in Lapis Blue (no options).</p>
                 <p>After 9 long weeks of waiting, I <a href="/taking-delivery-of-my-wrx">took delivery</a> of the car and immediately fell in love.  While I miss my Fiesta ST, the WRX has neatly filled the void and proven itself as a much more practical daily driver without sacrificing too many of the things that made the ST great.</p>
-                <p>As of mid-November 2017, I've racked up a little over 4000 miles on the WRX and eagerly await the first snowfall for some AWD hooning!</p>
+                <p>As of late December 2017, I've racked up a little over 6500 miles on the WRX!  Most recently it's carried our family through a number of cross-state roadtrips, and handled snowstorms like a boss.</p>
+            </div>
+            <div class="item flex-100 is-center-aligned">
+                <img src="https://assets.bpwalters.com/images/bens_car_blog/wrx_salted.jpg">
             </div>
         </div>
     </section>
