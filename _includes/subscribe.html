@@ -3,19 +3,23 @@
         <div class="item flex-100 is-center-aligned">
             <h1>Subscribe</h1>
             <p>Be the first to get notified when new content is added!  (I promise, no spam)</p>
-            <form method="POST" action="http://formspree.io/subscribe@benscarblog.com" onsubmit="return subscribe();">
+            <form method="POST" onsubmit="return subscribe();" id="subscribe-form">
                 <div class="validation-wrapper">
                     <span id="subscribe-email-validation" class="is-validation-message"></span>
                     <input type="email" name="email" placeholder="Your email" id="subscribe-email">
                 </div>
                 <input type="hidden" name="message" value="Please add me to the Ben's Car Blog mailing list!">
                 <input type="hidden" name="_next" value="/subscribed/" id="subscribe-callback">
+                <input type="text" name="_gotcha" style="display: none;">
                 <button type="submit">Sign Up</button>
             </form>
         </div>
     </div>
 </section>
 <script type="text/javascript">
+    var subscribeForm =  document.getElementById('subscribe-form');
+    subscribeForm.setAttribute('action', '//formspree.io/' + 'subscribe' + '@' + 'benscarblog' + '.' + 'com');
+
     function subscribe() {
         var subscribeEmailValidation = document.getElementById('subscribe-email-validation');
         var subscribeEmail = document.getElementById('subscribe-email');

@@ -21,7 +21,7 @@ layout: default
                 <h1>You've been subscribed!</h1>
                 <p>Thank you for signing up!  You'll be the first to be notified every time a new post goes live!</p>
                 <div id="unsubscribe-prompt">
-                    <form method="POST" action="http://formspree.io/unsubscribe@benscarblog.com">
+                    <form method="POST" id="unsubscribe-form">
                         <input type="hidden" name="email" id="unsubscribe-email">
                         <input type="hidden" name="message" value="Please remove me to the Ben's Car Blog mailing list!">
                         <input type="hidden" name="_next" value="/unsubscribed/" id="unsubscribe-callback">
@@ -33,10 +33,13 @@ layout: default
     </section>
 </section>
 <script type="text/javascript">
+    var unsubscribeForm =  document.getElementById('unsubscribe-form');
     var unsubscribePrompt = document.getElementById('unsubscribe-prompt');
     var unsubscribeEmail = document.getElementById('unsubscribe-email');
     var unsubscribeCallback = document.getElementById('unsubscribe-callback');
     var emailParam = getParameterByName('email');
+
+    unsubscribeForm.setAttribute('action', '//formspree.io/' + 'unsubscribe' + '@' + 'benscarblog' + '.' + 'com');
 
     if (emailParam) {
         unsubscribePrompt.style.display = 'block';
