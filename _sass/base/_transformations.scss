@@ -116,6 +116,23 @@ p {
         font-family: 'Lato', sans-serif;
     }
 }
+input {
+    &.is-link {
+        padding: 0;
+        margin: 0;
+        border: none !important;
+        background-color: transparent !important;
+        color: $blue !important;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-weight: 300;
+        font-size: 18px;
+        text-transform: none !important;
+        &:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+    }
+}
 
 @include phone {
     .is-hidden-mobile {

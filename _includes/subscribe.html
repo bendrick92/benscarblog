@@ -1,0 +1,39 @@
+<section id="subscribe">
+    <div class="container">
+        <div class="item flex-100 is-center-aligned">
+            <h1>Subscribe</h1>
+            <p>Be the first to get notified when new content is added!  (I promise, no spam)</p>
+            <form method="POST" action="http://formspree.io/subscribe@benscarblog.com" onsubmit="return subscribe();">
+                <div class="validation-wrapper">
+                    <span id="subscribe-email-validation" class="is-validation-message"></span>
+                    <input type="email" name="email" placeholder="Your email" id="subscribe-email">
+                </div>
+                <input type="hidden" name="message" value="Please add me to the Ben's Car Blog mailing list!">
+                <input type="hidden" name="_next" value="/subscribed/" id="subscribe-callback">
+                <button type="submit">Sign Up</button>
+            </form>
+        </div>
+    </div>
+</section>
+<script type="text/javascript">
+    function subscribe() {
+        var subscribeEmailValidation = document.getElementById('subscribe-email-validation');
+        var subscribeEmail = document.getElementById('subscribe-email');
+        var subscribeCallback = document.getElementById('subscribe-callback');
+
+        if (validateEmail(subscribeEmail.value)) {
+            subscribeCallback.value = subscribeCallback.value + '?email=' + subscribeEmail.value;
+            return true;
+        }
+        else {
+            subscribeEmail.style.border = '1px solid #F00';
+            subscribeEmailValidation.innerHTML = 'Please enter a valid email';
+            return false;
+        }
+
+        function validateEmail(email) {
+            var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email.toLowerCase());
+        }
+    }
+</script>

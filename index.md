@@ -19,6 +19,7 @@ pagination:
             </div>
         </div>
     </section>
+    {% include subscribe.html %}
     <section id="latest-posts">
         <div class="container">
             <div class="item flex-100 is-center-aligned">

@@ -63,6 +63,19 @@
         cursor: pointer;
     }
 }
+.validation-wrapper {
+    max-width: 100%;
+    display: inline-block;
+    span {
+        &.is-validation-message {
+            margin: 0 0 .5rem;
+            display: block;
+            color: $red;
+            text-align: left !important;
+            font-size: .8em;
+        }
+    }
+}
 
 @include phone-and-tablet {
     .inline-image-wrapper {
