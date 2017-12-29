@@ -2,7 +2,7 @@
 layout: post
 title:  "Sound Deadening the Fiesta ST"
 date:   2016-03-16 14:44:00 -0500
-categories: diy
+categories: diy fiestast
 image: https://assets.bpwalters.com/images/bens_car_blog/fiesta_sound_deadening_1.jpg
 ---
 
