@@ -23,7 +23,7 @@ layout: default
                 <div id="unsubscribe-prompt">
                     <form method="POST" id="unsubscribe-form">
                         <input type="hidden" name="email" id="unsubscribe-email">
-                        <input type="hidden" name="message" value="Please remove me to the Ben's Car Blog mailing list!">
+                        <input type="hidden" name="message" value="Please remove me from the Ben's Car Blog mailing list!">
                         <input type="hidden" name="_next" value="/unsubscribed/" id="unsubscribe-callback">
                         <p>If you change your mind, please click <input type="submit" value="here" class="is-link"> to unsubscribe at any time.</p>
                     </form>
