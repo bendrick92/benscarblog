@@ -1,0 +1,19 @@
+.related-post-preview {
+    height: 15em;
+    padding: 1em;
+    color: $white;
+    position: relative;
+    .post-preview-text {
+        position: absolute;
+        bottom: 0;
+        h3 {
+            margin: 0;
+            a {
+                color: $white;
+            }
+        }
+        p {
+            margin: .5em 0 1em;
+        }
+    }
+}

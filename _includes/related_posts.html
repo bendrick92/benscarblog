@@ -10,7 +10,7 @@
             {% for category in include.categories %}
                 {% if post.url != page.url %}
                     {% if post.categories contains category and relatedCounter < maxRelated %}
-                        {% capture postMarkup %}<div class="item flex-33">{% include post_preview.html %}</div>{% endcapture %}
+                        {% capture postMarkup %}<div class="item flex-33">{% include related_post_preview.html %}</div>{% endcapture %}
                         {% unless relatedPostsMarkup contains postMarkup %}
                             {% assign relatedPostsMarkup = relatedPostsMarkup | append: postMarkup %}
                             {% assign relatedCounter = relatedCounter | plus: 1 %}
