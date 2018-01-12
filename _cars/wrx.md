@@ -16,11 +16,11 @@ current_mods:
 - "[Subiebros LED license plate lights](/cleaning-up-the-rear-of-the-wrx/)"
 - "[Carbon fiber e-brake handle](/carbon-e-brake-perrin-drift-button-review/)"
 - "[Perrin Drift Button](/carbon-e-brake-perrin-drift-button-review/)"
+- "[JDM dual console armrest](/jdm-dual-console-armrest-extension-review/)"
 future_mods:
 - RCE lowering springs
 - Painted headlight housing, HID/c-light retrofit
 - LED foglights
-- JDM dual console armrest
 - Tail-as-turn
 - Interior/exterior LEDs
 - Alcantara interior accents
