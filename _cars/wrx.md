@@ -1,7 +1,7 @@
 ---
 layout: default
 url: /garage/wrx/
-image: https://assets.bpwalters.com/images/bens_car_blog/wrx_1.jpg
+image: https://assets.bpwalters.com/images/bens_car_blog/d2s_retrofit/front_end_c_lights_hids_dusk.jpg
 title: WRX
 current_mods:
 - Weathertech floormats
@@ -17,9 +17,9 @@ current_mods:
 - "[Carbon fiber e-brake handle](/carbon-e-brake-perrin-drift-button-review/)"
 - "[Perrin Drift Button](/carbon-e-brake-perrin-drift-button-review/)"
 - "[JDM dual console armrest](/jdm-dual-console-armrest-extension-review/)"
+- "[Blacked out headlight housing, Morimoto D2S 4.0 HIDs, Diode Dynamics c-lights](/morimoto-d2s-4.0-hid-retrofit/)"
 future_mods:
 - RCE lowering springs
-- Painted headlight housing, HID/c-light retrofit
 - LED foglights
 - Tail-as-turn
 - Interior/exterior LEDs
@@ -29,7 +29,7 @@ future_mods:
 <section id="wrx" class="car">
     <section id="intro" class="is-intro-section">
         <div class="background-image-wrapper is-dark">
-            <div class="is-opaque" style="background-image: url('https://assets.bpwalters.com/images/bens_car_blog/wrx_1.jpg');"></div>
+            <div class="is-opaque" style="background-image: url('https://assets.bpwalters.com/images/bens_car_blog/d2s_retrofit/front_end_c_lights_hids_dusk.jpg');"></div>
         </div>
         <div class="container has-middle-text">
             <div class="item flex-100">
@@ -72,10 +72,10 @@ future_mods:
             <div class="item flex-100">
                 <p>In early July 2017 I fulfilled a life-long dream and <a href="/buying-a-wrx">placed an order</a> for a 2018 WRX; a Premium in Lapis Blue (no options).</p>
                 <p>After 9 long weeks of waiting, I <a href="/taking-delivery-of-my-wrx">took delivery</a> of the car and immediately fell in love.  While I miss my Fiesta ST, the WRX has neatly filled the void and proven itself as a much more practical daily driver without sacrificing too many of the things that made the ST great.</p>
-                <p>As of late December 2017, I've racked up a little over 6500 miles on the WRX!  Most recently it's carried our family through a number of cross-state roadtrips, and handled snowstorms like a boss.</p>
+                <p>As of summer 2018, I've racked up a little over 12000 miles on the WRX!  I recently completed an [HID retrofit](/morimoto-d2s-4.0-hid-retrofit), which totally transformed the front of the car.  I've got big plans for the rear end this summer as well, so keep checking back!</p>
             </div>
             <div class="item flex-100 is-center-aligned">
-                <img src="https://assets.bpwalters.com/images/bens_car_blog/wrx_salted.jpg">
+                <img src="https://assets.bpwalters.com/images/bens_car_blog/d2s_retrofit/front_end_c_lights_hids_1.jpg">
             </div>
         </div>
     </section>
