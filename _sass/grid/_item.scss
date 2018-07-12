@@ -63,13 +63,9 @@
     .container {
         .item {
             padding: 0;
-            &.flex-75, &.flex-50, &.flex-33 {
+            &.flex-75, &.flex-50, &.flex-33, &.flex-25 {
                 width: 100%;
                 max-width: 100%;
-            }
-            &.flex-25 {
-                width: 48%;
-                max-width: 48%;
             }
         }
     }
@@ -77,13 +73,9 @@
 @include tablet {
     .container {
         .item {
-            &.flex-75, &.flex-50, &.flex-33 {
+            &.flex-75, &.flex-50, &.flex-33, &.flex-25 {
                 width: 100%;
                 max-width: 100%;
-            }
-            &.flex-25 {
-                width: 48%;
-                max-width: 48%;
             }
         }
     }
