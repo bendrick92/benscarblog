@@ -21,7 +21,6 @@ layout: default
                 <h4>Feedback</h4>
                 <p>Like what you see?  Are there specific topics/products/aspects of ownership you'd like me to cover?  Please feel free to <a href="mailto:contact@benscarblog.com">let me know</a>!  Feedback is what keeps me motivated!</p>
                 <h4>Support</h4>
-                <p>The hard part about running this site in my free time is that it <strong>costs me money</strong>.  Writing about cars is my passion; I genuinely love being able to share my experiences with you!</p>
                 <p>If you'd like to share your support, the easiest and best way to do so is to use the various Amazon links throughout my posts; these utilize the <a href="https://affiliate-program.amazon.com/" target="_blank">Amazon Affiliate Program</a> (see disclaimer below) to provide me with a small kickback for any products you purchase!  Any revenue is funneled directly back into creating new content for the site.</p>
                 <h4>Sponsors/Product Reviews</h4>
                 <p>If you are a company with a product you think is awesome, I'd love to hear about it!  Shoot me an email at <a href="mailto:contact@benscarblog.com">contact@benscarblog.com</a>.</p>
