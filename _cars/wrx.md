@@ -21,7 +21,7 @@ current_mods:
 - "[Blacked out taillights, Diode Dynamics Tail as Turn module](/wrx-taillight-blackout/)"
 - Diode Dynamics interior LEDs
 - Morimoto LED foglights
-- Bayson R V-Limited front lip
+- "[Bayson R V-Limited front lip](/bayson-r-lip-review/)"
 future_mods:
 - Fortune Coilovers
 - Alcantara interior accents
