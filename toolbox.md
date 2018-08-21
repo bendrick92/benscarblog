@@ -20,7 +20,13 @@ layout: default
             <div class="item flex-100">
                 <p>I get a lot of questions about what kinds of detailing products I use, and I love giving recommendations!  Unfortunately, I have a confession to make: I'm somewhat of a tool/detailing junkie.</p>
                 <p>I usually spend an inordinate amount of time researching everything I purchase, obsessing and overanalyzing the little details that make one product better than another.  This is further complicated when it comes to my budget; As much as I'd love to go with the latest and greatest option every time, I'm just a regular guy with a full-time job and bills to pay!  As a result, I tend to find and purchase products that provide the best "bang for the buck".</p>
-                <p>For reference, I've curated a list of all my favorite detailing products and tools below.  These are items I most frequently use, and have rightfully earned my enthusiastic recommendation!</p>
+                <p>For reference, I've curated a list of all my favorite photography, detailing products, and tools below.  These are items I use personally every single day and can enthusiastically stand behind.</p>
+                <h4>Photography Gear</h4>
+                <ul>
+                    <li><a href="https://amzn.to/2MEcTQx" target="_blank">Canon Rebel XS DSLR</a> - It may be old, but it still gets the job done!  A great entry-level DSLR for anyone looking to step up their photography game.</li>
+                    <li><a href="https://amzn.to/2OUIMSF" target="_blank">Canon EF 50mm f/1.8 Lens</a> - The "nifty fifty" is a great lens for automotive photography.  With an f/1.8 aperture, you can get some awesome depth of field effects.  I use this lens almost every time I shoot!  The only downside is the 50mm focal length means you have to step back a ways from your subject, which can be tough at crowded car shows.  However, for raw versatility, it can't be beat.  If I could only keep one lens, it'd be this!</li>
+                    <li><a href="https://amzn.to/2OSMyMh" target="_blank">Canon EF-S 24mm f/2.8 Lens</a> - While the 50mm is a great portrait lens, I found myself wanting something a little wider-angle for some sharper macro shots.  Enter the 24mm "pancake" lens.  This thing is ridiculously short, and is hardly noticeable once it's mounted on the camera.  While it can't beat the 50mm in bokeh, it grabs exceptionally sharp photos and is MUCH easier to use at shows.</li>
+                </ul>
                 <h4>Detailing Products</h4>
                 <ul>
                     <li><a href="https://amzn.to/2KfknJx" target="_blank">Griots Garage Brilliant Finish</a> - I've found this to be a very affordable, pH-balanced soap; great for washing away contaminants without stripping waxes or coatings.  It also doesn't have quite as many additives/waxes/marketing fluff as other soaps, which is nice.</li>
