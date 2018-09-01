@@ -2,7 +2,7 @@
 layout: post
 title: "Taking Delivery of My WRX"
 date: 2017-09-14 3:07:00 -0500
-categories: diaries wrx
+categories: wrx
 image: https://assets.bpwalters.com/images/bens_car_blog/wrx_foamed.jpg
 ---
 

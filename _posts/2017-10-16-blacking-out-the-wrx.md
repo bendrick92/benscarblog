@@ -2,7 +2,7 @@
 layout: post
 title: "Blacking Out the WRX"
 date: 2017-10-16 19:15:00 -0500
-categories: diy wrx 
+categories: wrx guides
 image: https://assets.bpwalters.com/images/bens_car_blog/wrx_black_grille_1.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Cleaning up the rear of the WRX"
 date: 2017-12-14 21:00:00 -0500
-categories: diy wrx reviews
+categories: wrx reviews guides
 image: https://assets.bpwalters.com/images/bens_car_blog/cleaning_up_the_rear_of_the_wrx/wrx_rear_after_mods.jpg
 ---
 

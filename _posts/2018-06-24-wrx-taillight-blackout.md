@@ -2,7 +2,7 @@
 layout: post
 title: "WRX Taillight Blackout"
 date: 2018-06-23 10:00:00 -0500
-categories: diy wrx
+categories: wrx guides
 image: https://assets.bpwalters.com/images/bens_car_blog/taillight_blackout/rear_2.jpg
 ---
 

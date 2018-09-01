@@ -10,7 +10,7 @@ layout: default
         <div class="container has-middle-text">
             <div class="item flex-100">
                 <div class="intro-title">
-                    <h1>Thank You</h1>
+                    <h1>Subscribed</h1>
                 </div>
             </div>
         </div>

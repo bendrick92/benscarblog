@@ -8,8 +8,10 @@ layout: default
     </div>
     <div class="container has-middle-text">
         <div class="item flex-100">
+            <p class="is-subheading is-bold">{{ page.date | date: '%B %d, %Y' }}</p>
             <h2>{{ page.title }}</h2>
-            <p class="is-subheading">{{ page.date | date: '%B %d, %Y' }}</p>
+            <p class="is-subheading">{% include read_time.html %}</p>
+            <p class="is-subheading post-categories">{% include post_categories.html %}</p>
         </div>
     </div>
 </section>
@@ -22,8 +24,8 @@ layout: default
         </div>
     </div>
 </section>
+{% include subscribe_section.html %}
 {% include related_posts.html categories=page.categories %}
-{% include subscribe.html %}
 <section id="post-comments">
     <div class="container">
         <div class="item flex-100">

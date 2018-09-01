@@ -7,3 +7,11 @@
         position: relative;
     }
 }
+
+@include desktop {
+    .first-post {
+        .post-preview-image {
+            padding: 15em 0;
+        }
+    }
+}

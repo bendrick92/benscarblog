@@ -2,7 +2,7 @@
 layout: post
 title: "WRX Oil Change"
 date: 2018-01-29 18:00:00 -0500
-categories: diy wrx
+categories: wrx guides
 image: https://assets.bpwalters.com/images/bens_car_blog/wrx_oil_change/oil_supplies_unboxed.jpg
 ---
 

@@ -7,6 +7,12 @@
         opacity: 0;
         @include animation(fade-in-slide-up 1s forwards);
     }
+    p.post-categories {
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+    }
 }
 #post-content {
     color: $dark-gray;

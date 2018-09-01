@@ -2,7 +2,7 @@
 layout: post
 title: "Sound Deadening the WRX"
 date: 2017-10-11 19:15:00 -0500
-categories: diy wrx 
+categories: wrx guides
 image: https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_39.jpg
 ---
 

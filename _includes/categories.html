@@ -1,0 +1,6 @@
+<ul class="is-category-list">
+    {% for category in site.categories %}
+        {% capture category_name %}{{ category | first }}{% endcapture %}
+        <li><a href="/{{ category_name }}">{{ category_name }}</a></li>
+    {% endfor %}
+</ul>

@@ -2,7 +2,7 @@
 layout: post
 title: "Adam's Wheel Cleaner Review"
 date: 2018-08-30 12:00:00 -0500
-categories: detailing reviews wrx
+categories: detailing reviews
 image: https://assets.bpwalters.com/images/bens_car_blog/adams_wheel_cleaner_review/bottle_wheel_1.jpg
 ---
 
