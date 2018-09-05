@@ -1,4 +1,11 @@
 footer {
+    a {
+        color: $dark-gray;
+        &:hover {
+            color: $blue;
+            text-decoration: none;
+        }
+    }
     a.footer-icon {
         margin: 0 .5em;
         display: inline-block;

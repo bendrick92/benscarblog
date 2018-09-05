@@ -18,7 +18,7 @@ layout: default
     <section id="details">
         <div class="container">
             <div class="item flex-100">
-                <p>I get a lot of questions about what kinds of detailing products I use, and I love giving recommendations!  Unfortunately, I have a confession to make: I'm somewhat of a tool/detailing junkie.</p>
+                <p><span class="is-first-letter">I</span> get a lot of questions about what kinds of detailing products I use, and I love giving recommendations!  Unfortunately, I have a confession to make: I'm somewhat of a tool/detailing junkie.</p>
                 <p>I usually spend an inordinate amount of time researching everything I purchase, obsessing and overanalyzing the little details that make one product better than another.  This is further complicated when it comes to my budget; As much as I'd love to go with the latest and greatest option every time, I'm just a regular guy with a full-time job and bills to pay!  As a result, I tend to find and purchase products that provide the best "bang for the buck".</p>
                 <p>For reference, I've curated a list of all my favorite photography, detailing products, and tools below.  These are items I use personally every single day and can enthusiastically stand behind.</p>
                 <h4>Photography Gear</h4>

@@ -45,7 +45,7 @@ pagination:
         <section id="other-posts">
             <div class="container">
                 <div class="item flex-100 is-center-aligned">
-                    <h1>Other Posts</h1>
+                    <h1>Latest Posts</h1>
                 </div>
                 {% for post in paginator.posts offset: 2 %}
                     <div class="item flex-50">

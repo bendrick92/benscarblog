@@ -59,13 +59,15 @@
 }
 .is-intro-section {
     .intro-title {
-        padding: 3rem 0;
+        padding: 5rem 0;
         text-align: center;
         color: $white;
         h1 {
             padding: 3rem 1.5rem;
             margin: 0;
             display: inline-block;
+            opacity: 0;
+            @include animation(fade-in-slide-up 1s forwards);
             span {
                 font-weight: 200;
             }
