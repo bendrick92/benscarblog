@@ -42,11 +42,3 @@ collections:
   cars:
     output: true
     permalink: /garage/:title/
-pagination:
-  enabled: true
-  per_page: 6
-  permalink: /:num/
-  sort_reverse: true
-  trail:
-    before: 2
-    after: 2
