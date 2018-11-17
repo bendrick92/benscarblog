@@ -36,7 +36,7 @@ pagination:
             <div class="item flex-100 is-center-aligned">
                 <h1>Other Posts</h1>
             </div>
-            {% for post in site.posts offset: 2 %}
+            {% for post in site.posts offset: 1 %}
                 <div class="item flex-50">
                     {% include post_preview.html %}
                 </div>

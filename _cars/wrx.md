@@ -40,7 +40,7 @@ mods:
     <section id="history">
         <div class="container">
             <div class="item flex-100">
-                <p><span class="is-first-letter">I</span>n early July 2017 I fulfilled a life-long dream and <a href="/buying-a-wrx">placed an order</a> for a 2018 WRX; a Premium in Lapis Blue (no options).  After 9 long weeks of waiting, I <a href="/taking-delivery-of-my-wrx">took delivery</a> of the car!</p>
+                <p><span class="is-first-letter">I</span>n early July 2017 I fulfilled a life-long dream and <a href="/buying-a-wrx">placed an order</a> for a 2018 WRX; a Premium in Lapis Blue Pearl.  After 9 long weeks of waiting, I <a href="/taking-delivery-of-my-wrx">took delivery</a> of the car!</p>
                 <p><img src="https://assets.bpwalters.com/images/bens_car_blog/wrx_dealership.jpg"></p>
                 <p>While I still miss my Fiesta ST, the WRX has neatly filled that void and proven itself to be a much more practical daily driver without sacrificing too many of the things that made the ST great.</p>
                 <p>As of September 2018, I've racked up a little over 19,000 miles on the WRX!  I recently completed an <a href="/morimoto-d2s-4.0-hid-retrofit">HID retrofit</a> and <a href="/wrx-taillight-blackout">taillight blackout</a>, which totally transformed the exterior!</p>
