@@ -2,7 +2,9 @@
 layout: post
 title: "Carbon E-Brake & Perrin Drift Button Review"
 date: 2017-12-28 11:42:00 -0500
-categories: reviews wrx
+categories:
+- reviews
+- wrx
 image: https://assets.bpwalters.com/images/bens_car_blog/carbon_ebrake/wrx_carbon_ebrake_2.jpg
 ---
 

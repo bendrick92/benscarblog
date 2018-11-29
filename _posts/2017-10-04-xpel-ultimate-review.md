@@ -2,7 +2,9 @@
 layout: post
 title: "XPEL Ultimate Review"
 date: 2017-10-04 18:53:00 -0500
-categories: reviews wrx 
+categories:
+- reviews
+- wrx 
 image: https://assets.bpwalters.com/images/bens_car_blog/xpel_front.jpg
 ---
 

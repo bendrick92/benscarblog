@@ -1,9 +1,7 @@
 ---
 layout: default
 title: detailing
-pagination:
-    enabled: true
-    category: detailing
+category: detailing
 ---
 
 {% include category_posts.html %}

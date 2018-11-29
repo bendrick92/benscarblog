@@ -2,7 +2,8 @@
 layout: post
 title: "Subiefest Midwest 2018"
 date: 2018-07-10 12:00:00 -0500
-categories: shows
+categories:
+- shows
 image: https://assets.bpwalters.com/images/bens_car_blog/subifest_midwest_2018/cover_cropped.jpg
 ---
 

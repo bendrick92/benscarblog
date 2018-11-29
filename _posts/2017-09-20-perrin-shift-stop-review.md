@@ -2,7 +2,9 @@
 layout: post
 title: "Perrin Shift Stop Review"
 date: 2017-09-20 6:07:00 -0500
-categories: reviews wrx
+categories:
+- reviews
+- wrx
 image: https://assets.bpwalters.com/images/bens_car_blog/perrin_shift_stop.jpg
 ---
 

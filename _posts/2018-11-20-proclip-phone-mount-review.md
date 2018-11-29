@@ -2,7 +2,8 @@
 layout: post
 title: "ProClip Phone Mount Review"
 date: 2018-11-20 12:00:00 -0500
-categories: reviews
+categories:
+- reviews
 image: https://assets.bpwalters.com/images/bens_car_blog/proclip_review/proclip_center_with_phone.jpg
 ---
 

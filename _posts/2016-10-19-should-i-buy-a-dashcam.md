@@ -2,7 +2,8 @@
 layout: post
 title:  "Should I Buy a Dashcam?"
 date:   2016-10-19 19:18:00 -0500
-categories: reviews
+categories:
+- reviews
 image: https://assets.bpwalters.com/images/bens_car_blog/dash_cam_1.jpg
 ---
 

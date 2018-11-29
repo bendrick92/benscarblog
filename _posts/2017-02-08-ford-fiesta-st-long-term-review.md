@@ -2,7 +2,9 @@
 layout: post
 title:  "Fiesta ST - Long Term Review"
 date:   2016-10-19 19:33:00 -0500
-categories: reviews fiestast
+categories:
+- reviews
+- fiesta st
 image: https://assets.bpwalters.com/images/bens_car_blog/fiesta_gauges.jpg
 ---
 

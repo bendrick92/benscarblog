@@ -1,9 +1,7 @@
 ---
 layout: default
 title: shows
-pagination:
-    enabled: true
-    category: shows
+category: shows
 ---
 
 {% include category_posts.html %}

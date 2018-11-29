@@ -1,7 +1,7 @@
 ---
 layout: default
-title: wrx
-category: wrx
+title: fiesta st
+category: fiesta st
 ---
 
 {% include category_posts.html %}

@@ -2,7 +2,10 @@
 layout: post
 title: "Bayson R V-Limited Lip Review"
 date: 2018-07-29 12:00:00 -0500
-categories: reviews wrx guides
+categories:
+- reviews
+- wrx
+- guides
 image: https://assets.bpwalters.com/images/bens_car_blog/bayson_r_lip_review/lip_installed_1.jpg
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Winter Maintenance Wash"
 date: 2017-12-01 20:00:00 -0500
-categories: detailing guides
+categories:
+- detailing
+- guides
 image: https://assets.bpwalters.com/images/bens_car_blog/winter_maintenance_wash/wrx_dirty_bumper.jpg
 ---
 

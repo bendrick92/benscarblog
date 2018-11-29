@@ -2,7 +2,9 @@
 layout: post
 title:  "DIY Fiesta/Focus ST Front Plate Relocate"
 date:   2016-07-06 21:15:00 -0500
-categories: fiestast guides
+categories:
+- fiesta st
+- guides
 image: https://assets.bpwalters.com/images/bens_car_blog/fiesta_front_plate_1.jpg
 ---
 

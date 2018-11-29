@@ -2,7 +2,8 @@
 layout: post
 title: "Holiday Gift Ideas - 2017"
 date: 2017-11-25 22:20:00 -0500
-categories: reviews
+categories:
+- reviews
 image: https://assets.bpwalters.com/images/bens_car_blog/christmas_1.jpg
 ---
 

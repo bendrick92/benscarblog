@@ -2,7 +2,9 @@
 layout: post
 title: "Buying a WRX"
 date: 2017-08-09 11:05:00 -0500
-categories: guides wrx
+categories:
+- guides
+- wrx
 image: https://assets.bpwalters.com/images/bens_car_blog/wrx_2.jpg
 ---
 
