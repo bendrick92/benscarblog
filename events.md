@@ -1,7 +1,7 @@
 ---
 layout: default
-title: shows
-category: shows
+title: events
+category: events
 ---
 
 {% include category_posts.html %}
