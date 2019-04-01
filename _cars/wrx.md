@@ -22,6 +22,10 @@ mods:
 - Diode Dynamics interior LEDs
 - Morimoto LED foglights
 - "[Bayson R V-Limited front lip](/bayson-r-lip-review/)"
+- Billetworkz custom shift knob
+- JDM coin tray
+- JDM grocery hook
+- Custom carbon-wrapped shifter trim
 ---
 
 <section id="wrx" class="car">

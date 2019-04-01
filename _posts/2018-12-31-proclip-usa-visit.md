@@ -69,3 +69,9 @@ Overall I had an absolute blast working with the ProClip USA team! The headquart
 I can't thank Cody and everyone at ProClip USA enough for the invite and the hospitality. If you're ever in the Madison area, be sure to hit them up!
 
 ![The WRX with ProClip USA headquarters in the background](https://assets.bpwalters.com/images/bens_car_blog/proclip_visit/proclip_front.jpg)
+
+#### UPDATE 02/18/2019
+
+ProClip has posted the video review on their YouTube channel! Check it out below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fLb5HEv2ZtU" frameborder="0" allowfullscreen></iframe>
