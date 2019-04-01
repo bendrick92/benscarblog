@@ -25,7 +25,7 @@ mods:
 - Billetworkz custom shift knob
 - JDM coin tray
 - JDM grocery hook
-- Custom carbon-wrapped shifter trim
+- "Custom carbon-wrapped shifter trim"
 ---
 
 <section id="wrx" class="car">
