@@ -11,7 +11,7 @@ mods:
 - "[Perrin Shift Stop](/perrin-shift-stop-review/)"
 - "[Front & rear door sound deadening](/sound-deadening-the-wrx/)"
 - "[Gloss black badging](/blacking-out-the-wrx/)"
-- Enkei YS5 (17x7.5) + General Altimax Arctic 12 (235/45R17) (winter wheels & tires)
+- Enkei YS5 (17x7.5 +55) + General Altimax Arctic 12 (235/45R-17) (winter wheels & tires)
 - "[Subiebros F1 rear fog light](/cleaning-up-the-rear-of-the-wrx/)"
 - "[Subiebros LED license plate lights](/cleaning-up-the-rear-of-the-wrx/)"
 - "[Carbon fiber e-brake handle](/carbon-e-brake-perrin-drift-button-review/)"
@@ -26,6 +26,8 @@ mods:
 - JDM coin tray
 - JDM grocery hook
 - "Custom carbon-wrapped shifter trim"
+- Blacked out vent trim
+- Rays Gram Lights 57DR (18x9.5 +38) + General G-MAX RS (255/35ZR-18)
 ---
 
 <section id="wrx" class="car">
