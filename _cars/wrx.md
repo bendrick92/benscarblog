@@ -28,6 +28,7 @@ mods:
 - "Custom carbon-wrapped shifter trim"
 - Blacked out vent trim
 - Rays Gram Lights 57DR (18x9.5 +38) + General G-MAX RS (255/35ZR-18)
+- HT Autos side skirts, rear spats
 ---
 
 <section id="wrx" class="car">
@@ -72,7 +73,7 @@ mods:
                         <li>{{ mod | markdownify }}</li>
                     {% endfor %}
                 </ul>
-                <p><img src="https://assets.bpwalters.com/images/bens_car_blog/d2s_retrofit/front_end_c_lights_hids_1.jpg"></p>
+                <p><img src="https://assets.bpwalters.com/images/bens_car_blog/wrx_milwaukee.jpg"></p>
             </div>
         </div>
     </section>
