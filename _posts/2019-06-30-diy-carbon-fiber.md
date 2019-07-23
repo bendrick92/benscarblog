@@ -5,6 +5,7 @@ date: 2019-06-30 12:00:00 -0500
 categories:
 - diy
 - guides
+- wrx
 image: https://assets.bpwalters.com/images/bens_car_blog/diy_carbon_fiber/carbon_bezel_installed.jpg
 ---
 

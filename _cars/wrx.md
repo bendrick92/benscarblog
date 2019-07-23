@@ -25,7 +25,7 @@ mods:
 - Billetworkz custom shift knob
 - JDM coin tray
 - JDM grocery hook
-- "Custom carbon-wrapped shifter trim"
+- "[Custom carbon-wrapped shifter trim](/diy-carbon-fiber)"
 - Blacked out vent trim
 - Rays Gram Lights 57DR (18x9.5 +38) + General G-MAX RS (255/35ZR-18)
 - HT Autos side skirts, rear spats
