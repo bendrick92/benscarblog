@@ -29,6 +29,7 @@ mods:
 - Blacked out vent trim
 - Rays Gram Lights 57DR (18x9.5 +38) + General G-MAX RS (255/35ZR-18)
 - HT Autos side skirts, rear spats
+- OLM LED black turn signal housings
 ---
 
 <section id="wrx" class="car">
