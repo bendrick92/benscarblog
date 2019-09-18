@@ -7,7 +7,7 @@ pagination:
 <section id="homepage">
     <section id="intro" class="is-intro-section">
         <div class="background-image-wrapper is-dark">
-            <div class="is-opaque" style="background-image: url('https://assets.bpwalters.com/images/bens_car_blog/subifest_midwest_2019/smurfed_sti_2.jpg');"></div>
+            <div class="is-opaque" style="background-image: url('https://assets.bpwalters.com/images/bens_car_blog/xpel_ultimate_long_term/wrx_bumper.jpg');"></div>
         </div>
         <div class="container has-middle-text">
             <div class="item flex-100">
