@@ -30,6 +30,7 @@ mods:
 - Rays Gram Lights 57DR (18x9.5 +38) + General G-MAX RS (255/35ZR-18)
 - HT Autos side skirts, rear spats
 - OLM LED black turn signal housings
+- "[COBB Accessport V3 w/ MAPerformance Stage 1 Tune](/cobb-accessport-review/)"
 ---
 
 <section id="wrx" class="car">
@@ -74,7 +75,7 @@ mods:
                         <li>{{ mod | markdownify }}</li>
                     {% endfor %}
                 </ul>
-                <p><img src="https://assets.bpwalters.com/images/bens_car_blog/wrx_milwaukee.jpg"></p>
+                <p><img src="https://assets.bpwalters.com/images/bens_car_blog/cobb_accessport_review/summer_drive.jpg"></p>
             </div>
         </div>
     </section>
