@@ -8,7 +8,9 @@ categories:
 image: https://assets.bpwalters.com/images/bens_car_blog/cobb_accessport_review/accessport_mounted.jpg
 ---
 
-<span class="is-first-letter">O</span>ne of the most popular mods for the WRX/STI is the [COBB Accessport](https://www.cobbtuning.com/products/accessport). I had some familiarity with COBB after owning my [Fiesta ST](/garage/fiesta-st), but never got around to running a tune before I sold it. Before I even [placed my order for my WRX](/buying-a-wrx/), I knew that an Accessport was a must have! After almost two and a half years, I decided to take the plunge and ordered one earlier last month.
+<span class="is-first-letter">O</span>ne of the most popular mods for the WRX/STI is the [COBB Accessport](https://www.cobbtuning.com/products/accessport). I had some familiarity with COBB after owning my [Fiesta ST](/garage/fiesta-st), but never got around to running a tune before I sold it. Before I even [placed my order for my WRX](/buying-a-wrx/), I knew that an Accessport was a must have! After almost two and a half years, I decided to take the plunge and ordered one from [MAPerformance](https://maperformance.com) earlier last month.
+
+Before going any futher, I want to give a shoutout to the guys and gals at MAP for their *awesome* customer service and crazy fast shipping. The time from ordering my AP to having it in-hand was basically one business day! They even threw in their Stage 1 tune for free!
 
 ![Unboxing the Accessport](https://assets.bpwalters.com/images/bens_car_blog/cobb_accessport_review/accessport_box.jpg)
 
