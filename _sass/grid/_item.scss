@@ -1,3 +1,43 @@
+@mixin flex-75 {
+    width: 75%;
+    max-width: 75%;
+    &.has-gutter {
+        width: 71%;
+        max-width: 71%;
+        margin: 2%;
+    }
+}
+
+@mixin flex-50 {
+    width: 50%;
+    max-width: 50%;
+    &.has-gutter {
+        width: 46%;
+        max-width: 46%;
+        margin: 2%;
+    }
+}
+
+@mixin flex-33 {
+    width: 33.33%;
+    max-width: 33.33%;
+    &.has-gutter {
+        width: 29.33%;
+        max-width: 29.33%;
+        margin: 2%;
+    }
+}
+
+@mixin flex-25 {
+    width: 25%;
+    max-width: 25%;
+    &.has-gutter {
+        width: 21%;
+        max-width: 21%;
+        margin: 2%;
+    }
+}
+
 .item {
     padding: 1rem;
     @include flex(0, 1, auto);
@@ -14,13 +54,7 @@
         }
     }
     &.flex-75 {
-        width: 75%;
-        max-width: 75%;
-        &.has-gutter {
-            width: 71%;
-            max-width: 71%;
-            margin: 2%;
-        }
+        @include flex-75;
     }
     &.flex-50 {
         width: 50%;
@@ -32,22 +66,10 @@
         }
     }
     &.flex-33 {
-        width: 33.33%;
-        max-width: 33.33%;
-        &.has-gutter {
-            width: 29.33%;
-            max-width: 29.33%;
-            margin: 2%;
-        }
+        @include flex-33;
     }
     &.flex-25 {
-        width: 25%;
-        max-width: 25%;
-        &.has-gutter {
-            width: 21%;
-            max-width: 21%;
-            margin: 2%;
-        }
+        @include flex-25;
     }
     &.has-centered-content {
         @include flexbox;
@@ -76,6 +98,15 @@
             &.flex-75, &.flex-50, &.flex-33, &.flex-25 {
                 width: 100%;
                 max-width: 100%;
+            }
+            &.flex-75-tablet {
+                @include flex-75;
+            }
+            &.flex-50-tablet {
+                @include flex-50;
+            }
+            &.flex-25-tablet {
+                @include flex-25;
             }
         }
     }

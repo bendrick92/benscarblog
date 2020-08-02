@@ -83,7 +83,7 @@ hr {
     display: block;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
     margin: 1.5rem 0 1rem 0;
     font-family: 'Lato', sans-serif;
     font-weight: 900;
@@ -110,6 +110,9 @@ h3 {
 h4 {
     font-size: 25px;
 }
+h5 {
+    font-size: 22px;
+}
 
 p {
     img {
@@ -132,7 +135,7 @@ em {
     font-style: italic;
 }
 
-input, button, textarea {
+input, button, textarea, .is-button {
     max-width: 100%;
     padding: .5rem .75rem;
     margin: 0 0 1.25rem;
@@ -140,11 +143,15 @@ input, button, textarea {
     box-sizing: border-box;
 }
 
-input[type=submit], button {
+input[type=submit], button, .is-button {
     border: 1px solid $blue;
     background-color: $blue;
     color: $white;
     text-transform: uppercase;
+    
+    &:hover {
+        text-decoration: none;
+    }
 }
 
 @include phone-and-tablet {

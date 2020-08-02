@@ -22,23 +22,23 @@
 }
 
 @include keyframes(fade-in-slide-up) {
-    0% {
-        opacity: 0;
-        transform: translate3d(0,30px,0);
-    }
-    100% {
-        opacity: 1;
-        transform: none;
-    }
+	0% {
+			opacity: 0;
+			transform: translate3d(0,30px,0);
+	}
+	100% {
+			opacity: 1;
+			transform: none;
+	}
 }
 
 @include keyframes(fade-in) {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1.0;
-    }
+	0% {
+			opacity: 0;
+	}
+	100% {
+			opacity: 1.0;
+	}
 }
 
 @include keyframes(fade-in-fifty) {
@@ -48,6 +48,15 @@
     100% {
         opacity: 0.5;
     }
+}
+
+@include keyframes(fade-in-forty) {
+	0% {
+		opacity: 0;
+	}
+	100% {
+			opacity: 0.4;
+	}
 }
 
 @mixin zoom-scale($scale) {

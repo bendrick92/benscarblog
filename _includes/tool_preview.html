@@ -1,0 +1,14 @@
+<div class="tool-preview">
+  <div class="container is-nested-container">
+    <div class="item flex-100 has-centered-content">
+      <img src='{{ tool.image }}' alt='{{ tool.title }}' />
+    </div>
+    <div class="item flex-100">
+      <h5>{{ tool.title }}</h5>
+      <p>{{ tool.description }}</p>
+    </div>
+    <div class="item flex-100 is-center-aligned">
+      <a href="{{ tool.link }}" target="_blank" class="is-button">{{ tool.buttonLabel }}</a>
+    </div>
+  </div>
+</div>

@@ -24,6 +24,7 @@
         left: 0;
         background-size: cover;
         background-position: center;
+        @include animation(fade-in-forty 1s forwards); 
         &.is-opaque {
             opacity: 0.4;
         }
