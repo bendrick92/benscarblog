@@ -41,12 +41,12 @@
 	}
 }
 
-@include keyframes(fade-in-fifty) {
+@include keyframes(fade-in-sixty-five) {
     0% {
         opacity: 0;
     }
     100% {
-        opacity: 0.5;
+        opacity: 0.65;
     }
 }
 

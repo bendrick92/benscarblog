@@ -23,10 +23,9 @@ layout: default
                 <p><img src="https://assets.bpwalters.com/images/bens_car_blog/young_ben.jpg" alt="Me behind the wheel as a five year old"></p>
                 <p>Over the past few years I've met some great people, seen some awesome cars, and mostly just had a blast sharing my hobby with others!  I've owned <a href="/garage">a few cars</a> over the years, but most recently purchased my dream car: A <a href="/garage/wrx" target="_blank">2018 Subaru WRX</a>.  Fulfilling this lifelong dream inspired me to find a new, creative way to share my ownership experience with the world.  The result was this website!</p>
                 <p><img src="https://assets.bpwalters.com/images/bens_car_blog/fl4t_society_meetup.jpg"></p>
-                <p>When I'm not behind the wheel or in the garage, I'm usually at <a href="https://www.milwaukeetool.com" target="_blank">the office</a>, shooting pictures, programming for fun, blogging here and over at <a href="https://bpwalters.com" target="blank">bpwalters.com</a>, or with my wonderful fiance and our two cats (they are not fans of being in the car).</p>
+                <p>When I'm not behind the wheel or in the garage, I'm usually at <a href="https://www.milwaukeetool.com" target="_blank">the office</a>, playing Xbox, taking pictures, programming for fun, or blogging here and over at <a href="https://bpwalters.com" target="blank">bpwalters.com</a>.</p>
                 <p><img src="https://assets.bpwalters.com/images/bens_car_blog/wrx_milwaukee.jpg"></p>
-                <p>Whether you're a WRX fan yourself or just somebody who loves cars, I hope my journey inspires you!</p>
-                <p>Feel free to look around, leave a comment, email me at <a href="mailto:contact@benscarblog.com">contact@benscarblog.com</a>, or follow me on <a href="https://www.instagram.com/benscarblog/">Instagram</a>.</p>
+                <p>Whether you're a WRX fan yourself or just somebody who loves cars, I hope my journey inspires you! Feel free to look around, leave a comment, email me at <a href="mailto:contact@benscarblog.com">contact@benscarblog.com</a>, or follow me over on <a href="https://www.instagram.com/benscarblog/">Instagram</a>.</p>
                 <p>Thanks for stopping by!</p>
                 <p>-Ben</p>
             </div>
