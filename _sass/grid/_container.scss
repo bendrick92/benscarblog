@@ -16,6 +16,11 @@
     &.is-nested-container {
         width: 100%;
         padding: 0;
+
+        > .item {
+            padding-left: 0;
+            padding-right: 0;
+        }
     }
 }
 .column-container {

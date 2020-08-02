@@ -80,7 +80,7 @@ detailing_wheel_tire:
 - title: AMMO Mud Tire Gel
   description: I've used a number of tire gels over the years and was continuously frustrated by the mess of application, durability, and shiny sidewalls that attracted dirt and dust like magnets. Mud is not only extremely easy to use, but leaves a nice matte layer of protection behind.  It's honestly as good as tire gel gets, and is unbeatable bang for the buck!
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/ammo_mud.jpg
-  buttonLabel: Buy on ammoync.com
+  buttonLabel: Buy from AMMO
 detailing_towels_microfibers:
 - title: Gyeon Silk Drying Towel
   description: $25 might seem a little steep, but this is one of the nicest and most absorbent towels I've ever used.  It's seriously gigantic which translates to a lot of surface area to absorb and lift water away, while the soft fabric keeps your paint scratch-free!
@@ -91,28 +91,28 @@ detailing_towels_microfibers:
   description: Larry takes his microfibers seriously, and these are seriously the nicest I've found. They come in a pack of six, so I'd recommend grabbing a few at a time. I've tried a number of different "high quality" microfibers in dozens of applications, and these have remained the most versatile and durable of them all.
   link: https://www.ammonyc.com/shop/microfiber-towels/
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/ammo_microfiber.jpg
-  buttonLabel: Buy on ammonyc.com
+  buttonLabel: Buy from AMMO
 power_tools_other:
 - title: Milwaukee M18 Blower
   description: If you haven't already joined the "weird guy who dries their car with a leaf blower" club yet, I highly recommend it. It can safe a ton of headache when trying to dry handles, jambs, and trunk lids by blasting any water out before you run around with the drying towel. Not to mention less touching your paint = less scratches!
   link: https://www.homedepot.com/p/Milwaukee-M18-FUEL-120-MPH-450-CFM-18-Volt-Lithium-Ion-Brushless-Cordless-Handheld-Blower-Tool-Only-2724-20/302752040
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/milwaukee_blower.jpg
-  buttonLabel: Buy on homedepot.com
+  buttonLabel: Buy from Home Depot
 - title: Ryobi Electric Power Washer
   description: Even for the average weekend Joe, a power washer it can also save a ton of time during the washing process. It makes short work of brake dust, caked-on dirt and grit and is something I use at minimum twice a year before and after winter to clean up the undercarriage, suspension, and exhaust components.
   link: https://www.homedepot.com/p/RYOBI-1-600-PSI-1-2-GPM-Electric-Pressure-Washer-RY141612/301004462
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/ryobi_powerwasher.jpg
-  buttonLabel: Buy on homedepot.com
+  buttonLabel: Buy from Home Depot
 - title: Milwaukee M12 Stubby Impact Wrench
   description: Small but stout, the Stubby Impact is perfect for changing wheels, suspension/exhaust bolts, and most everything else you'd need to loosen or tighten on your car. Its small footprint makes it great for throwing in the car on a track day or even in an roadside emergency kit!
   link: https://www.homedepot.com/p/Milwaukee-M12-FUEL-12-Volt-Lithium-Ion-Brushless-Cordless-Stubby-3-8-in-Impact-Wrench-Tool-Only-2554-20/304834780
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/milwaukee_impact.jpg
-  buttonLabel: Buy on homedepot.com
+  buttonLabel: Buy from Home Depot
 - title: Eley Hose Reel
   description: $150+ might seem steep for a hose reel, but I had had enough of the cheap plastic/self-winding reels from hardware stores. So I did some research on the "best" consumer hose reel available. In almost every result Eley was mentioned, and for good reason - this thing is a beast! The reel itself and included hardware are all extremely high quality, and I could see this thing outlasting our house! 2+ years later it looks like brand new!
   link: https://www.eleyhosereels.com/products/wall-mount-garden-hose-reel
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/eely_hose_reel.jpg
-  buttonLabel: Buy on eleyhosereels.com
+  buttonLabel: Buy from Eley
 ---
 
 <section id="toolbox">
@@ -160,57 +160,45 @@ power_tools_other:
                 </ul>
             </div>
             <div class="item flex-100 is-center-aligned">
-                <h1 id="photography-gear">Photography</h1>
+                <h2 id="photography-gear">Photography</h2>
             </div>
             {% for tool in page.photography_gear %}
-                <div class="item flex-33">
+                <div class="item flex-33 flex-50-tablet">
                     {% include tool_preview.html %}
                 </div>
             {% endfor %}
             <div class="item flex-100 is-center-aligned">
-                <h1 id="detailing-wash-&-wax">Wash & Wax</h1>
+                <h2 id="detailing-wash-&-wax">Wash & Wax</h2>
             </div>
             {% for tool in page.detailing_paint %}
-                <div class="item flex-33">
+                <div class="item flex-33 flex-50-tablet">
                     {% include tool_preview.html %}
                 </div>
             {% endfor %}
             <div class="item flex-100 is-center-aligned">
-                <h1 id="detailing-wheels-&-tires">Wheels & Tires</h1>
+                <h2 id="detailing-wheels-&-tires">Wheels & Tires</h2>
             </div>
             {% for tool in page.detailing_wheel_tire %}
-                <div class="item flex-33">
+                <div class="item flex-33 flex-50-tablet">
                     {% include tool_preview.html %}
                 </div>
             {% endfor %}
             <div class="item flex-100 is-center-aligned">
-                <h1 id="detailing-towels-&-microfibers">Towels & Microfibers</h1>
+                <h2 id="detailing-towels-&-microfibers">Towels & Microfibers</h2>
             </div>
             {% for tool in page.detailing_towels_microfibers %}
-                <div class="item flex-33">
+                <div class="item flex-33 flex-50-tablet">
                     {% include tool_preview.html %}
                 </div>
             {% endfor %}
             <div class="item flex-100 is-center-aligned">
-                <h1 id="power-tools-&-other">Power Tools & Other</h1>
+                <h2 id="power-tools-&-other">Power Tools & Other</h2>
             </div>
             {% for tool in page.power_tools_other %}
-                <div class="item flex-33">
+                <div class="item flex-33 flex-50-tablet">
                     {% include tool_preview.html %}
                 </div>
             {% endfor %}
         </div>
     </section>
-    <!-- <section id="details">
-        <div class="container">
-            <div class="item flex-100">
-                <h4>Tools</h4>
-                <ul>
-                    <li><a href="https://www.costco.com/3-Ton-Professional-Grade-Aluminum-And-Steel-Service-Jack.product.100222458.html" target="_blank">Arcan 3 Ton Floor Jack</a> - Having purchased and used everything from a Harbor Freight to Craftsman floor jack, I finally jumped on this Costco deal and have had no regrets.  It's a crazy heavy-duty jack, and lifts everything I've thrown at it with ease.  It's low profile enough for my WRX, and when combined with a hockey puck (between the pad and jacking point) has left no damage on any of my pinch welds or frame rails.</li>
-                    <li><a href="https://www.homedepot.com/p/Ryobi-1-600-PSI-1-2-GPM-Electric-Pressure-Washer-RY141600/205566079" target="_blank">Ryobi 1600 PSI Electric Pressure Washer</a> - I had reservations about going with an electric pressure washer, but I've been extremely happy with the performance of this guy.  It's highly portable, easy to store, very quiet, and has plenty of power for car washing.  Combined the coating and blower, I almost don't have to touch the car with a wash mitt or towel to get it clean!</li>
-                    <li><a href="https://www.eleyhosereels.com/collections/garden-hose-reels/products/wall-mount-garden-hose-reel" target="_blank">Eley Hose Reel</a> - $150+ might seem steep for a hose reel, but having gone through numerous plastic/self-winding reels from hardware stores, I did some research on the "best" consumer hose reel available.  In almost every result Eley was mentioned, and for good reason.  This thing is a beast!  The reel itself and included hardware are all very high quality, and I could see this thing outlasting our house!  I have mine mounted to the siding and unwinding/winding is a breeze now.  Probably one of the best tool investments I've made thus far!</li>
-                </ul>
-            </div>
-        </div>
-    </section> -->
 </section>
