@@ -6,6 +6,11 @@
         padding: 8em 0;
         position: relative;
     }
+    .background-link-wrapper {
+        a {
+            opacity: 0;
+        }
+    }
 }
 
 @include desktop {

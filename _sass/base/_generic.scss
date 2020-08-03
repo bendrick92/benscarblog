@@ -6,6 +6,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
     font-size: 18px;
+    font-display: swap;
     color: $dark-gray;
     @include flexbox;
     @include flex-direction(column); 
@@ -57,6 +58,13 @@ a {
 img {
     width: 100%;
     max-width: 100%;
+    &.lazyload, .lazyloading {
+        opacity: 0;
+    }
+    &.lazyloaded {
+        opacity: 1;
+        transition: opacity 300ms;
+    }
 }
 
 article {
