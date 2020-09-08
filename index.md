@@ -43,4 +43,5 @@ pagination:
             {% endfor %}
         </div>
     </section>
+    {% include support_section.html %}
 </section>
