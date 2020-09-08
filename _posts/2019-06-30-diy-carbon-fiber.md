@@ -140,3 +140,7 @@ As you can see, wrapping your parts with carbon isn't all that difficult. While 
 ![Finished bezel installed](https://assets.bpwalters.com/images/bens_car_blog/diy_carbon_fiber/carbon_bezel_installed.jpg)
 
 Stay tuned - in an upcoming post, I'll be going over the steps to create your own carbon fiber parts from custom molds!
+
+#### Update - September 2020
+
+I've created a "lessons learned" post as an update to this original post [here](/diy-carbon-fiber-5-tips-and-tricks). If you're looking for more info on working with carbon fiber, be sure to check it out!
