@@ -3,80 +3,76 @@ layout: default
 photography_gear:
 - title: Sony A7II
   description: Choosing an upgrade from my old Canon DSLR was not an easy decision. After weeks of research and testing out different cameras, I settled on a used Sony A7II. The compact size, integrated stabilization, and detail captured by the full-frame sensor are hard to beat, especially considering the price of a used model! The only downside has been the cost of lenses, but there are some excellent budget options (see below).
-  link: https://amzn.to/2XoHXu9
+  link: https://www.bhphotovideo.com/c/product/1159878-REG/sony_a7r_mark_ii_digital.html
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/a7ii.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy on B&H
 - title: Sony 50mm f/1.8 Lens
   description: The "nifty fifty" is the perfect lens for automotive photography.  With an f/1.8 aperture, you can get some awesome depth of field effects. The only downside is the 50mm focal length means you have to step back a ways from your subject, which can be a challenge at crowded car shows. But if I could only keep one lens it'd be this one!
-  link: https://amzn.to/2Jlw3XM
+  link: https://www.bhphotovideo.com/c/product/1242613-REG/sony_sel50f18f_fe_50mm_f_1_8_lens.html
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/sony_50mm.jpg
-  buttonLabel: Buy on Amazon
-- title: A7II Thumb Grip
-  description: Making the switch from my bulky DSLR, one of the things I immediately noticed was how hard it was to grip the smaller A7II for long periods. A couple car shows and cramped fingers later, I picked up this simple aluminum thumb grip which mounts in the hot shoe slot and significantly improves the ergonomics. It should really come this way from the factory!
-  link: https://amzn.to/3gkcpL7
-  image: https://assets.bpwalters.com/images/bens_car_blog/tools/a7ii_thumb.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy on B&H
 - title: B+W Circular Polarizer
   description: A near-necessity if you're photographing cars, a circular polarizer (CPL) cuts reflections and glare on windows and body panels. A good quality one will provide a sharper image and better polarization than cheaper ones.
-  link: https://amzn.to/30hDYiB
+  link: https://www.bhphotovideo.com/c/search?Ntt=B%2BW%20circular%20polarizer&N=0&InitialSearch=yes&sts=ma
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/bw_cpl.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy on B&H
 detailing_paint:
 - title: Adams Car Shampoo
   description: I used to think car soap was car soap, but after trying out Adam's Car Shampoo I discovered I was wrong. Not only is this shampoo pH neutral (won't strip waxes/sealants/coatings), but it's specially formulated to prevent etching and hard water stains. This alone has given me a huge amount of peace of mind when washing in the direct sunlight!
-  link: https://amzn.to/2KojAVR
+  link: https://adamspolishes.com/collections/car-washing-products-best-car-shampoo/products/car-shampoo
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/adams_shampoo.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy from Adams
 - title: Meguiars Wash Mitt
   description: Cheap, durable, and most importantly great at lifting contaminants safely away from the paint. I rotate between a few for the paint as well as one dedicated wheel mitt.
-  link: https://amzn.to/2KojAVR
+  link: https://www.autogeek.net/meguiars-microfiber-wash-mitt.html
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/meguiars_mitt.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy on Autogeek
 - title: Adams Clay Mitt
   description: For most of my life, I used the tried-and-true method of claybarring by hand. I seriously dreaded it since it was a recipe for cramped fingers, clay under your nails, and sore arms. The Clay Mitt is one of those things you buy and wonder "Why didn't I do this sooner?".
-  link: https://amzn.to/33j3ciK
+  link: https://adamspolishes.com/products/adam-s-clay-mitt
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/adams_clay_mitt.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy from Adams
 - title: Grit Guard w/ Wash Board
   description: This is a must have for anyone serious about detailing. Designed for five gallon buckets, it provides a surface to scrub your wash mitt against and release dirt/contaminants while washing. The lower guard is designed to keep the dirt separated from the rest of your wash water, helping mitigate scratches and swirls during the washing process.
-  link: https://amzn.to/2Kokhyr
+  link: https://www.autogeek.net/grit-guard-washboard-combo.html
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/grit_guard.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy on Autogeek
 - title: Optimum Opti-Seal
   description: Opti-Seal is the best spray sealant I've ever used.  It's also perfect for cleaning glass and leaves a very hydrophobic barrier behind with absolutely no streaking!  I've found that a single spray per panel during the drying step is plenty; a little goes a LONG way with this stuff.  If you're looking for ease of use and maximum protection (without a coating), I highly recommend Opti-Seal.
-  link: https://amzn.to/2tKEdBl
+  link: https://www.autogeek.net/optimum-opti-seal.html
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/optimum_optiseal.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy on Autogeek
 - title: Finish Kare BWM-1000
-  description: The most durable, easiest to apply wax I've ever used. So much so that it easily ousted <a href="https://amzn.to/2yQURFe" target="_blank">Collinite 845</a> after years! A single application of Finish Kare is enough to last through an entire season if properly maintained and the shine is unbelievable! I don't recommend it for use on panels with clear bras (stick with Opti-Seal), as wax buildup is hard to remove from the edge of films.
+  description: The most durable, easiest to apply wax I've ever used. So much so that it easily ousted Collinite 845 after years! A single application of Finish Kare is enough to last through an entire season if properly maintained and the shine is unbelievable! I don't recommend it for use on panels with clear bras (stick with Opti-Seal), as wax buildup is hard to remove from the edge of films.
+  link: https://www.autogeek.net/finish-kare-1000p-wax.html
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/finish_kare.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy on Autogeek
 - title: Optimum No Rinse
   description: No Rinse is a must have for anyone in a winter climate.  A few caps worth is enough to safely and thoroughly clean your paint in the winter with a single bucket and no hose.  See my <a href="/winter-maintenance-wash/" target="_blank">Winter Maintenance Wash</a> post for more info on why this stuff is so awesome!
-  link: https://amzn.to/2KtxPbY
+  link: https://www.autogeek.net/optimum-no-rinse.html
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/optimum_no_rinse.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy on Autogeek
 detailing_wheel_tire:
 - title: Adams Wheel Cleaner
   description: Having used other wheel cleaners in the past, there seeemed to be a direct correlation between "stink" and performance. Fortunately, not only does Adam's match or beat others in terms of cleaning ability, but it actually smells tolerable! The product itself itself "sticks" to the wheel better as well, meaning more cleaning power from less product. Check out my <a href="/adams-wheel-cleaner-review">full review</a> for more details.
-  link: https://amzn.to/2NS4BBG
+  link: https://adamspolishes.com/products/adam-s-deep-wheel-cleaner
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/adams_wheel_cleaner.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy from Adams
 - title: Adams Tire Cleaner
   description: Much like their Wheel Cleaner, Adam's Tire Cleaner is some of the best stuff I've used. It thoroughly cleans my tire's sidewalls, easily removing any "blooming" (i.e. the browning effect tires exhibit). I used to use Bleche White, but the Adam's stuff is *much* more effective and doesn't singe your eyeballs. This stuff is perfect for cleaning rubber floor mats too!
-  link: https://amzn.to/2k5H0Eo
+  link: https://adamspolishes.com/products/adam-s-tire-rubber-cleaner
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/adams_tire_cleaner.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy from Adams
 - title: Adams All-Purpose Cleaner
   description: Rounding out my preferred "wheel cleaning trifecta" is Adam's All-Purpose Cleaner. I use this in the wheel wells and on any lower plastic trims with a quick scrub from a fender brush to loosen any dirt and grime. This APC is strong enough to cut through caked-on dirt, but gentle enough that it won't leave stains or damage any painted surfaces it might come in contact with.
-  link: https://amzn.to/2DqxwNg
+  link: https://adamspolishes.com/products/adam-s-eco-all-purpose-cleaner-gallon-with-free-16oz
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/adams_apc.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy from Adams
 - title: Adams Wheel & Tire Brushes
   description: There's not much to a brush, but Adam's nailed it with their wheel well and tire brushes. Both have stiff bristles, solid handles, and look brand new after dozens of washes.
-  link: https://amzn.to/2Dnvy0i
+  link: https://adamspolishes.com/collections/exterior-wheel-tire-brushes
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/adams_wheel_brushes.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy from Adams
 - title: AMMO Mud Tire Gel
   description: I've used a number of tire gels over the years and was continuously frustrated by the mess of application, durability, and shiny sidewalls that attracted dirt and dust like magnets. Mud is not only extremely easy to use, but leaves a nice matte layer of protection behind.  It's honestly as good as tire gel gets, and is unbeatable bang for the buck!
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/ammo_mud.jpg
@@ -84,9 +80,9 @@ detailing_wheel_tire:
 detailing_towels_microfibers:
 - title: Gyeon Silk Drying Towel
   description: $25 might seem a little steep, but this is one of the nicest and most absorbent towels I've ever used.  It's seriously gigantic which translates to a lot of surface area to absorb and lift water away, while the soft fabric keeps your paint scratch-free!
-  link: https://amzn.to/2MooZcM
+  link: https://www.autogeek.net/gyeon-silk-dryer.html
   image: https://assets.bpwalters.com/images/bens_car_blog/tools/gyeon_silk.jpg
-  buttonLabel: Buy on Amazon
+  buttonLabel: Buy from Autogeek
 - title: AMMO Red Microfiber Towels
   description: Larry takes his microfibers seriously, and these are seriously the nicest I've found. They come in a pack of six, so I'd recommend grabbing a few at a time. I've tried a number of different "high quality" microfibers in dozens of applications, and these have remained the most versatile and durable of them all.
   link: https://www.ammonyc.com/shop/microfiber-towels/
@@ -155,7 +151,7 @@ power_tools_other:
                 </ul>
                 <h4>Disclaimer</h4>
                 <ul>
-                    <li>All of the Amazon links you see below are tied to the <a href="https://affiliate-program.amazon.com/" target="_blank">Amazon Affiliate Program</a> which provides me with a small kickback for items you purchase. This is a great way to show your support, and helps me out a ton with server fees, purchasing new products to review, etc.</li>
+                    <li>I've made an effort to link to the manufacturer websites where applicable. I believe in buying from the source (when possible) and supporting the businesses that make these great products! I do not receive any sort of kick back or commission for any of this stuff - they've all earned my recommendation the old fashioned way!</li>
                     <li>Some of the tools I recommend below are made by Milwaukee Tool. While I genuinely believe they are great in their own right, it's only fair to disclose that I do work for Milwaukee Tool. I realize not everyone is a general contractor or looking to shell out for a professional-grade tool, so please feel free to reach out if you have questions, even about potential alternatives!</li>
                 </ul>
             </div>

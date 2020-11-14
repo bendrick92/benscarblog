@@ -8,11 +8,11 @@ categories:
 image: https://assets.bpwalters.com/images/bens_car_blog/adams_wheel_cleaner_review/bottle_wheel_1.jpg
 ---
 
-<span class="is-first-letter">A</span>nyone who's spent any amount of time on Instagram is probably familiar with Adam's Polishes.  They have a huge social media presence and are widely praised throughout the Subaru community for their awesome detailing products.  Having never used any of their stuff myself, and considering my old bottle of [DUB Wheel Cleaner](https://amzn.to/2BXTeqR) was still stinking up my garage, I figured I'd give [Adam's Wheel Cleaner](https://amzn.to/2PoByGN) a shot.
+<span class="is-first-letter">A</span>nyone who's spent any amount of time on Instagram is probably familiar with Adam's Polishes.  They have a huge social media presence and are widely praised throughout the Subaru community for their awesome detailing products.  Having never used any of their stuff myself, and considering my old bottle of DUB Wheel Cleaner was still stinking up my garage, I figured I'd give [Adam's Wheel Cleaner](https://adamspolishes.com/products/adam-s-deep-wheel-cleaner) a shot.
 
 #### Initial Impressions
 
-At ~$1/oz, it's certainly not the cheapest wheel cleaner I've used.  In fact it's about three times more expensive than my current "favorite" - [Meguiar's DUB Wheel Cleaner](https://amzn.to/2BXTeqR)!  However, upon removing the bottle of Adam's from the packaging I immediately noticed one big difference; this stuff wasn't burning the hair out of my nostrils!
+At ~$1/oz, it's certainly not the cheapest wheel cleaner I've used.  In fact it's about three times more expensive than my current "favorite" - Meguiar's DUB Wheel Cleaner!  However, upon removing the bottle of Adam's from the packaging I immediately noticed one big difference; this stuff wasn't burning the hair out of my nostrils!
 
 Of course I'm exaggerating a bit, but the Meguiar's has a VERY strong smell to it.  Most reputible wheel cleaners (IronX, DUB, etc.) will have some sort of iron-fighting agent in them, which seems to be universally derived from extract of Satan.  That being said, the Adam's bottle actually has a nice berry-ish aroma!
 
@@ -26,7 +26,7 @@ Since it was time for a wash anyways, I pulled the WRX out into the driveway and
 
 ![Spraying down the wheel](https://assets.bpwalters.com/images/bens_car_blog/adams_wheel_cleaner_review/wheel_spray.jpg)
 
-If the wheels are extra filthy, I'll usually grab my [Griots Wheel Wands](https://amzn.to/2C4WgJN) and tire brush to get the hard-to-reach areas.  However, as I'd soon discover, the Adam's cleaner worked so well I was able to completely clean the wheels with just my wheel wash mitt and fender brush!
+If the wheels are extra filthy, I'll usually grab my [Griots Wheel Wands](https://www.griotsgarage.com/product/two+microfiber+wheel+wands.do) and tire brush to get the hard-to-reach areas.  However, as I'd soon discover, the Adam's cleaner worked so well I was able to completely clean the wheels with just my wheel wash mitt and fender brush!
 
 ![Wheel cleaning bucket](https://assets.bpwalters.com/images/bens_car_blog/adams_wheel_cleaner_review/bucket_fill.jpg)
 
@@ -74,7 +74,7 @@ I plan to pick up a few more of Adam's products as I use up my other cleaners.  
 
 #### Where to Buy
 
-If you're looking to pick some up [Adam's Wheel Cleaner](https://amzn.to/2BXTeqR) yourself, I'd recommend going with the pricier (but MUCH better value) [gallon jug](https://amzn.to/2ooNcFU) - it comes out to ~$0.50/oz versus the ~$1.00/oz of the smaller 16 oz bottle!
+If you're looking to pick some up [Adam's Wheel Cleaner](https://adamspolishes.com/products/adam-s-deep-wheel-cleaner) yourself, I'd recommend going with the pricier (but MUCH better value) [gallon jug](https://adamspolishes.com/products/adam-s-deep-wheel-cleaner?variant=29073520951393) - it comes out to ~$0.50/oz versus the ~$1.00/oz of the smaller 16 oz bottle!
 
-* [16 oz Wheel Cleaner](https://amzn.to/2BXTeqR) - $17.00 (Amazon)
-* [1 gallon Wheel Cleaner (Amazon)](https://amzn.to/2ooNcFU) - $60.00 (Amazon)
+* [16 oz Wheel Cleaner](https://adamspolishes.com/products/adam-s-deep-wheel-cleaner) - $15.00 (Adam's Website)
+* [1 gallon Wheel Cleaner (Amazon)](https://adamspolishes.com/products/adam-s-deep-wheel-cleaner?variant=29073520951393) - $60.00 (Adam's Website)

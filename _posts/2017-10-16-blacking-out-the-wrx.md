@@ -28,7 +28,7 @@ Getting the OEM rings off proved to be more difficult than I expected.  But with
 
 ![OEM oval compared to Subispeed](https://assets.bpwalters.com/images/bens_car_blog/wrx_blackout_3.jpg)
 
-Since the rings themselves aren't secured to the grille or trunk, double sided tape needed to be re-applied to the back of the badge.  For this, I ordered up a roll of [3M Automotive Molding Tape](http://amzn.to/2xKJSw0) and cut a few pieces to size.  Then, before sticking the badges back on, I peeled the adhesive off the tape and hit them with the heat gun for a few seconds to soften them up.
+Since the rings themselves aren't secured to the grille or trunk, double sided tape needed to be re-applied to the back of the badge.  For this, I ordered up a roll of 3M Automotive Molding Tape and cut a few pieces to size.  Then, before sticking the badges back on, I peeled the adhesive off the tape and hit them with the heat gun for a few seconds to soften them up.
 
 ![3M double sided tape](https://assets.bpwalters.com/images/bens_car_blog/wrx_blackout_4.jpg)
 
@@ -36,7 +36,7 @@ Since the rings themselves aren't secured to the grille or trunk, double sided t
 
 #### Fender Badges
 
-The [gloss black fender badges](http://amzn.to/2yOzZO0) I got from [Amazon](http://amzn.to/2yOzZO0) for a great price.  I was a bit worried about the quality, but having looked them over carefully before installing, I noticed no major defects or flaws.  They even came with 3M adhesive pre-installed!
+The gloss black fender badges I got from Amazon for a great price.  I was a bit worried about the quality, but having looked them over carefully before installing, I noticed no major defects or flaws.  They even came with 3M adhesive pre-installed!
 
 ![Amazon black fender badges](https://assets.bpwalters.com/images/bens_car_blog/wrx_blackout_6.jpg)
 
@@ -48,7 +48,7 @@ Getting the original badges off was pretty straightforward; the heat gun and tri
 
 #### Trunk Badges
 
-Next, I decided to debadge the driver's side of the trunk as well as swap the chrome WRX logo with a [gloss black replacement](http://amzn.to/2zeypBm) (purchased from [Subiebros](http://subiebros.com/wrx-trunk-badge/); I tried ordering two from [Amazon](http://amzn.to/2zeypBm) but both were broken or bent in transit) to match the rest of the trim pieces.  This was super straightforward as all of the trunk badge lettering popped off cleanly after some encouragement from the heat gun.
+Next, I decided to debadge the driver's side of the trunk as well as swap the chrome WRX logo with a gloss black replacement (purchased from [Subiebros](http://subiebros.com/wrx-trunk-badge/); I tried ordering two from Amazon but both were broken or bent in transit) to match the rest of the trim pieces.  This was super straightforward as all of the trunk badge lettering popped off cleanly after some encouragement from the heat gun.
 
 ![Heating the driver's side badging](https://assets.bpwalters.com/images/bens_car_blog/wrx_debadge_1.jpg)
 
@@ -68,7 +68,7 @@ Finally, after going back and forth on the taillight tint color, I picked up a s
 
 I had originally intended to go with the red overlays, but I had concerns about how much of the reverse light would be lost through the red tint.  I might revisit this later when I get a chance to upgrade the exterior lighting to LEDs, but for now the light smoke tint adds just enough shadow to dull the chrome-ish portion of the taillight.
 
-Installing the tint was pretty straightforward.  I assembled the necessary tools - [heat gun](http://amzn.to/2zgVa7F), diluted IPA solution, spray bottle, [vinyl squeegee](http://amzn.to/2xOJmNv), microfiber towel, and beer.
+Installing the tint was pretty straightforward.  I assembled the necessary tools - heat gun, diluted IPA solution, spray bottle, vinyl squeegee, microfiber towel, and beer.
 
 ![Tint tools](https://assets.bpwalters.com/images/bens_car_blog/wrx_taillight_tint_1.jpg)
 

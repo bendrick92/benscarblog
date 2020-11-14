@@ -13,13 +13,13 @@ image: https://assets.bpwalters.com/images/bens_car_blog/2018_holiday_gift_guide
 
 ![Adam's H2O Guard & Gloss](https://assets.bpwalters.com/images/bens_car_blog/2018_holiday_gift_guide/adams_h2o.png)
 
-Its hard to recommend just one [Adam's](https://adamspolishes.com/) product, since they absolutely kill it with their Christmas-themed limited edition products every year, but their [H2O Guard & Gloss](https://amzn.to/2PhixWh) is an easy pick, especially for a winter detailer. Perfect for protecting paint in-between washes, it goes on slick and offers easy application (wet or dry) and shine. ([Buy on Amazon](https://amzn.to/2PhixWh))
+Its hard to recommend just one [Adam's](https://adamspolishes.com/) product, since they absolutely kill it with their Christmas-themed limited edition products every year, but their [H2O Guard & Gloss](https://adamspolishes.com/products/adam-s-h2o-guard-gloss) is an easy pick, especially for a winter detailer. Perfect for protecting paint in-between washes, it goes on slick and offers easy application (wet or dry) and shine. ([Buy from Adams](https://adamspolishes.com/products/adam-s-h2o-guard-gloss))
 
 #### WRX/STI OEM Trunk Hook
 
 ![WRX/STI OEM Trunk Hook](https://assets.bpwalters.com/images/bens_car_blog/2018_holiday_gift_guide/trunk_hook.png)
 
-If you're like me, your WRX/STI is your everyday car. This means regular trips to the grocery store...and the struggle of keeping your bags upright on the way home. The [Subaru OEM Trunk Hook](https://amzn.to/2UgnBOi) provides an elegant, OEM solution to the problem! It mounts up with no modification to the trunk itself and can even fold away when not needed. ([Buy on Amazon](https://amzn.to/2UgnBOi))
+If you're like me, your WRX/STI is your everyday car. This means regular trips to the grocery store...and the struggle of keeping your bags upright on the way home. The [Subaru OEM Trunk Hook](https://parts.subaru.com/p/Subaru__/Trunk-Cargo-Hook/62905675/F551SAL100.html) provides an elegant, OEM solution to the problem! It mounts up with no modification to the trunk itself and can even fold away when not needed. ([Buy from Subaru](https://parts.subaru.com/p/Subaru__/Trunk-Cargo-Hook/62905675/F551SAL100.html))
 
 #### WRX Christmas Sweater
 
@@ -37,13 +37,13 @@ I stumbled across this awesome [Subaru String Art](https://www.etsy.com/listing/
 
 ![Canon EF 50mm f/1.8 Lens](https://assets.bpwalters.com/images/bens_car_blog/2018_holiday_gift_guide/canon_50mm.jpg)
 
-If you've got an aspiring photographer on your list, look no further than the [Canon "Nifty Fifty" 50mm f/1.8 Lens](https://amzn.to/2OUIMSF). Its one of the most versitale budget lenses you can buy, and makes for some awesome shots. A vast majority of the shots on this blog and my [Instagram](https://instagram.com/benscarblog) were shot with this lens! ([Buy on Amazon](https://amzn.to/2OUIMSF))
+If you've got an aspiring photographer on your list, look no further than the [Canon "Nifty Fifty" 50mm f/1.8 Lens](https://www.bhphotovideo.com/c/product/1143786-REG/canon_0570c002_ef_50mm_f_1_8_stm.html). Its one of the most versitale budget lenses you can buy, and makes for some awesome shots. A vast majority of the shots on this blog and my [Instagram](https://instagram.com/benscarblog) were shot with this lens! ([Buy on B&H](https://www.bhphotovideo.com/c/product/1143786-REG/canon_0570c002_ef_50mm_f_1_8_stm.html))
 
 #### Adam's Polishes Wheel Cleaner
 
 ![Adam's Wheel Cleaner](https://assets.bpwalters.com/images/bens_car_blog/2018_holiday_gift_guide/adams_wheel_cleaner.png)
 
-Ok I lied - I didn't pick just one Adam's product. Their [Wheel Cleaner](https://amzn.to/2PkxeYx) is just too good to not include here... Plus, it's perfect for washing off all of the snow, salt, and other road grime that accumulates over the winter! If you're really trying to make an impression, go for the full [gallon jug](https://amzn.to/2SzPAad) for the most bang for your buck! ([Buy on Amazon](https://amzn.to/2PkxeYx))
+Ok I lied - I didn't pick just one Adam's product. Their [Wheel Cleaner](https://adamspolishes.com/products/adam-s-deep-wheel-cleaner) is just too good to not include here... Plus, it's perfect for washing off all of the snow, salt, and other road grime that accumulates over the winter! If you're really trying to make an impression, go for the full [gallon jug](https://adamspolishes.com/products/adam-s-deep-wheel-cleaner?variant=29073520951393) for the most bang for your buck! ([Buy from Adams](https://adamspolishes.com/products/adam-s-deep-wheel-cleaner))
 
 #### Billetworkz Engraved Shift Knob
 
@@ -61,4 +61,4 @@ I may be biased, but the [Milwaukee Tool M12 FUEL 1/2" Stubby Impact Wrench](htt
 
 ![LEGO Caterham Seven 620R](https://assets.bpwalters.com/images/bens_car_blog/2018_holiday_gift_guide/lego_caterham.png)
 
-I can't think of a car enthusiast who *wouldn't* want this on their desk! LEGO went above and beyond with the details on this model. Paired with the [Mini Cooper](https://amzn.to/2Qz1KCM) or [Volkswagen Beetle](https://amzn.to/2EfVR7F), it's the perfect compliment to any collection. Just be careful - it can be a slippery slope... If you're feeling extra generous, spring for the [Bugatti Chiron](https://amzn.to/2EhoO3c)! ([Buy on Amazon](https://amzn.to/2QFObBq))
+I can't think of a car enthusiast who *wouldn't* want this on their desk! LEGO went above and beyond with the details on this model. Paired with the [Mini Cooper](https://www.lego.com/en-us/product/mini-cooper-10242) or [Volkswagen Beetle](https://www.lego.com/en-us/product/volkswagen-beetle-10252), it's the perfect compliment to any collection. Just be careful - it can be a slippery slope... If you're feeling extra generous, spring for the [Bugatti Chiron](https://www.lego.com/en-us/product/bugatti-chiron-42083)! ([Buy on Lego.com](https://www.lego.com/en-us/product/caterham-seven-620r-21307))

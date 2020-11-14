@@ -80,7 +80,7 @@ The next day I inspected the finish for defects and hit it with some 2000 grit t
 
 Deciding what clear coat to use was a tricky process since I knew I wanted something more durable than normal rattle can clear from the hardware store.  The lip would be taking a beating after all!
 
-After some research, I decided a 2k (or two-stage) clear coat would be the best option.  I went with a [USC Spraymax Matte Clearcoat from Amazon](https://amzn.to/2OtfT0l).  At ~$25/can, a 2k clear is much more expensive than a traditional clear coat, but its superior scratch, chip, and UV resistance make it worth the investment.
+After some research, I decided a 2k (or two-stage) clear coat would be the best option.  I went with a [USC Spraymax Matte Clearcoat from Amazon](https://www.amazon.com/Spray-High-Gloss-Clearcoat-Aerosol/dp/B00W2D806Y).  At ~$25/can, a 2k clear is much more expensive than a traditional clear coat, but its superior scratch, chip, and UV resistance make it worth the investment.
 
 ![](https://assets.bpwalters.com/images/bens_car_blog/bayson_r_lip_review/clearcoat_1.jpg)
 

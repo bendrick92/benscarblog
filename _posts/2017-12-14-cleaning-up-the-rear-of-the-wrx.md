@@ -21,7 +21,7 @@ First off, the factory muffers hang wayyy too low.  I can almost fit my fist bet
 
 Thankfully, there's a quick and easy fix!
 
-YouTuber T-WRX [made an awesome video](https://www.youtube.com/watch?v=ahLjdKt3oUY) on how to use a pair of [aftermarket hangers](http://amzn.to/2C9c21t) to quickly and affordably pull the stock mufflers up closer to the diffuser:
+YouTuber T-WRX [made an awesome video](https://www.youtube.com/watch?v=ahLjdKt3oUY) on how to use a pair of [aftermarket hangers](https://www.amazon.com/gp/product/B00N3UP57M) to quickly and affordably pull the stock mufflers up closer to the diffuser:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ahLjdKt3oUY" frameborder="0" allowfullscreen></iframe>
 
@@ -31,7 +31,7 @@ At $20 for the pair, I figured it was worth a shot myself!
 
 With temperatures hovering around 20 degrees, I threw on some gloves and a sweatshirt and headed out to the garage to get to work.
 
-With the car parked on the slight incline in my garage, there was plenty of space for me to shimmy underneath the rear of the car without needing jacks.  Since rubber + cold = hard as hell, I employed my heat gun and a soapy, lubricating spray to get the OEM hangers off.  I found there really isn't any "trick"; you just need to work at it.  Only the two inner hangers need to be replaced, and there's enough clearance around them to get your hands in there.  In spite of this, it took me over an hour to get both hangers off.  In retrospect, I probably should have invested in a pair of [these](http://amzn.to/2zdJ4PC) exhaust removal pliers...
+With the car parked on the slight incline in my garage, there was plenty of space for me to shimmy underneath the rear of the car without needing jacks.  Since rubber + cold = hard as hell, I employed my heat gun and a soapy, lubricating spray to get the OEM hangers off.  I found there really isn't any "trick"; you just need to work at it.  Only the two inner hangers need to be replaced, and there's enough clearance around them to get your hands in there.  In spite of this, it took me over an hour to get both hangers off.  In retrospect, I probably should have invested in a pair of [these](https://www.homedepot.com/p/Lisle-Exhaust-Removal-Plier-LIS38350/306763665) exhaust removal pliers...
 
 Getting the aftermarket hangers on was a much simpler process.  Like Chuck, I used the top two holes and angled the hangers inward (since they're much longer than OEM).
 

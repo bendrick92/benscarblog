@@ -12,7 +12,7 @@ image: https://assets.bpwalters.com/images/bens_car_blog/proclip_review/proclip_
 
 Since [picking my WRX](/taking-delivery-of-my-wrx) up last fall, I had been storing my phone in the cupholder. Unfortunately, this quickly got annoying, especially during longer roadtrips where I needed directions; not only was it a unsafe to be glancing down all the time but I was also short one cupholder!
 
-A few months ago I got fed up did and some Googling for WRX-specific phone mounts. One name that kept coming up across forums and blog posts was [ProClip USA](https://proclipusa.com). I ended up purchasing one of their [A-Pillar Mounts](https://www.proclipusa.com/product/804748-proclip-left-mount) for the WRX along with a [Scosche MagicMount Magnetic Mount](https://amzn.to/2DO8K8I) and have been using them ever since.
+A few months ago I got fed up did and some Googling for WRX-specific phone mounts. One name that kept coming up across forums and blog posts was [ProClip USA](https://proclipusa.com). I ended up purchasing one of their [A-Pillar Mounts](https://www.proclipusa.com/product/804748-proclip-left-mount) for the WRX along with a [Scosche MagicMount Magnetic Mount](https://www.proclipusa.com/category/scosche-accessories) and have been using them ever since.
 
 ![A-Pillar Mount](https://assets.bpwalters.com/images/bens_car_blog/proclip_review/apillar_mount.jpg)
 
@@ -102,6 +102,6 @@ If you want to pick up any of the products mentioned above for yourself, head on
 * [2015+ WRX/STI A-Pillar Mount](https://www.proclipusa.com/product/804748-proclip-left-mount)
 * [2015+ WRX/STI Center Mount](https://www.proclipusa.com/product/241507-proclip-center-dash-mount)
 * [Adjustable Phone Holder](https://www.proclipusa.com/product/adjustable-phone-holder)
-* [Scosche MagicMount Magnetic Mount](https://amzn.to/2DO8K8I)
+* [Scosche MagicMount Magnetic Mount](https://www.proclipusa.com/category/scosche-accessories)
 
 Huge thanks again to ProClip for sending over the products for review!

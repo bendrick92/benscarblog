@@ -10,13 +10,13 @@ image: https://assets.bpwalters.com/images/bens_car_blog/taillight_blackout/rear
 
 <span class="is-first-letter">R</span>ed taillights: The bane of anybody not running a red/black theme on their car.  Having already blacked the rest of the exterior badging and chrome, I was stumped as to how to tackle the taillights.  I loved the look of the OEM tails, but really wanted something that would work with the dark blue paint.  The Subispeed offerings didn't really appeal to me in both aesthetics and from a reliability standpoint.  Fortunately I stumbled across a few folks on Instagram who had cracked theirs open and blacked out the chrome.  It sounded easy enough, and I was fortunate enough to borrow a spare set of tails from a friend while I worked on mine.
 
-As far as parts/tools needed, it's a pretty simple project (links to Amazon):
+As far as parts/tools needed, it's a pretty simple project:
 
-* [Plastic primer](https://amzn.to/2tym6iH)
-* [Satin black plastic paint](https://amzn.to/2tH05gN)
-* [Waterproof silicone](https://amzn.to/2MtHixB)
-* [Dremel](https://amzn.to/2KpbWHJ)
-* [Dremel cutoff wheels](https://amzn.to/2tyQ1aq)
+* [Plastic primer](https://www.amazon.com/gp/product/B00KZ6M3CW)
+* [Satin black plastic paint](https://www.amazon.com/gp/product/B000C0158E)
+* [Waterproof silicone](https://www.homedepot.com/p/GE-Advanced-Silicone-2-2-8-oz-Clear-Window-and-Door-Silicone-Sealant-Caulk-Squeeze-GE500-3TG/100179996)
+* [Dremel](https://www.homedepot.com/p/Milwaukee-M12-12-Volt-Lithium-Ion-Cordless-Rotary-Tool-Tool-Only-2460-20/203111683)
+* [Dremel cutoff wheels](https://www.homedepot.com/p/Dremel-EZ-Lock-Rotary-Tool-Cut-Off-Wheel-Set-for-Metal-and-Plastic-11-Piece-EZ688-01/202263203)
 
 If you're upgrading to LEDs and/or installing the Diode Dynamics Tail as Turn module, you can configure your choice of replacement backup LEDs on their website [here](https://www.diodedynamics.com/2015-2018-subaru-wrx-sti-tail-as-turntm-backup-module.html).
 

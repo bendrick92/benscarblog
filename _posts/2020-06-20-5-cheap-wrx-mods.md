@@ -49,7 +49,7 @@ If you are *really* looking for a project, you could always [wrap them in carbon
 
 Just like the interior, it’s the small details on the exterior that make a big difference too! The factory chrome fender badges and emblem surrounds stick out like a sore thumb, especially on darker colors.
 
-There are a wide variety of replacement options, but I chose to go with black to match the rest of the exterior trim pieces. Replacements can be picked up from [Subiebros](https://subiebros.com/2015-wrx-fender-badges/), [Subispeed](https://www.subispeed.com/gcs-fender-emblems-2015-wrx-sti), and even [Amazon](https://amzn.to/2YRpLHe).
+There are a wide variety of replacement options, but I chose to go with black to match the rest of the exterior trim pieces. Replacements can be picked up from [Subiebros](https://subiebros.com/2015-wrx-fender-badges/), [Subispeed](https://www.subispeed.com/gcs-fender-emblems-2015-wrx-sti), and even [Amazon](https://www.amazon.com/gp/product/B0813ZVMBF).
 
 ![Black WRX fender badges](https://assets.bpwalters.com/images/bens_car_blog/5_cheap_wrx_mods/black_fender_badges.jpg)
 
@@ -81,7 +81,9 @@ The WRX's stock steel brake calipers get the job done, but after a year or two o
 
 ![The stock, rusted WRX calipers](https://assets.bpwalters.com/images/bens_car_blog/5_cheap_wrx_mods/wrx_brakes_rusted.jpg)
 
-Fortunately, Duplicolor makes an excellent [brush-on brake paint kit](https://amzn.to/3hMkSrw) that makes cleaning up your brakes super straightforward. This project does require quite a bit of cleaning/prep and masking (unless you want to remove your calipers from the car entirely), but the end result is worth it!
+Fortunately, Duplicolor makes an excellent [brush-on brake paint kit](https://www.autozone.com/paint-and-body/brake-caliper-paint/dupli-color-red-caliper-brake-paint-kit/539677_0_0) that makes cleaning up your brakes super straightforward. Most auto parts stores will stock some variant of this kit, but you may have to shop around for the right color.
+
+This project does require quite a bit of cleaning/prep and masking (unless you want to remove your calipers from the car entirely), but the end result is worth it!
 
 ![The DIY painted calipers](https://assets.bpwalters.com/images/bens_car_blog/5_cheap_wrx_mods/wrx_brakes_painted.jpg)
 

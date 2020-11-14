@@ -21,7 +21,7 @@ Trying to be frugal with materials can lead to a lot of frustration. It’s almo
 
 Initially, I had decent results cleaning out my brushes. Spritzing the bristles with a spray bottle of 50/50 isopropyl alcohol and water or paint thinner, I was able to get two to three uses out of a single brush.
 
-Unfortunately, I began to realize that *any* leftover epoxy in the brush would turn to gel and eventually harden. Trying to apply the second or third layer of epoxy with bristles like this messed up the weave of the carbon on more than one occasion. Because of this, I'd recommend stocking up on brushes (I picked up [this](https://amzn.to/3k9T0yM) bulk pack on Amazon) and dispose of them after each use.
+Unfortunately, I began to realize that *any* leftover epoxy in the brush would turn to gel and eventually harden. Trying to apply the second or third layer of epoxy with bristles like this messed up the weave of the carbon on more than one occasion. Because of this, I'd recommend stocking up on brushes (check out [Harbor Freight](https://www.harborfreight.com/painting/painting-tools-supplies/1-in-industrial-grade-chip-brushes-36-pc-61491.html)) and dispose of them after each use.
 
 ![Bulk pack of paint brushes](https://assets.bpwalters.com/images/bens_car_blog/diy_carbon_fiber_tips_and_tricks/brushes.jpg)
 
@@ -35,7 +35,7 @@ Laying a chunk of carbon fiber seems pretty straightforward. Unfortunately, part
 
 ![The carbon fiber bubbled as it cured](https://assets.bpwalters.com/images/bens_car_blog/diy_carbon_fiber_tips_and_tricks/carbon_ripple.jpg)
 
-There's a few ways to prevent this, the easiest of which is to use a spray adhesive like [3M Super 77](https://amzn.to/2DBNjZZ). Apply a thin layer to the back of your carbon fiber and use your fingers to *gently* work the fabric onto the part.
+There's a few ways to prevent this, the easiest of which is to use a spray adhesive like [3M Super 77](https://www.homedepot.com/p/3M-16-75-oz-Super-77-Multi-Purpose-Spray-Adhesive-77-24/100067550). Apply a thin layer to the back of your carbon fiber and use your fingers to *gently* work the fabric onto the part.
 
 An alternative method is to lay a base layer of resin, let it cure to tack, and then lay your carbon fiber. One advantage of this approach is you can use black pigment to die the epoxy. This will help mask lighter colored parts from showing through the final weave.
 
@@ -61,7 +61,7 @@ The first solution is to use the same type of store-bought vacuum bags you'd put
 
 ![Using store-bought vacuum bags](https://assets.bpwalters.com/images/bens_car_blog/diy_carbon_fiber_tips_and_tricks/vacuum_bag.jpg)
 
-Pumping the air out by hand means you have more control than hooking up your household vacuum cleaner and hoping for the best. [Here's](https://amzn.to/2Dr4LR7) a set I picked up that's worked great for me.
+Pumping the air out by hand means you have more control than hooking up your household vacuum cleaner and hoping for the best. [Here's](https://www.amazon.com/gp/product/B07P3475KY/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) a set I picked up that's worked great for me.
 
 The second option is to use plastic food wrap or window shrink film. This option won't work for parts with complex curves or lots of holes, but for simple stuff, it's a great option. Using a variety of tape and clamps can help keep things from shifting.
 
@@ -87,7 +87,7 @@ Once you've applied a few layers of resin and cleaned up your edges, make sure t
 
 When it comes to choosing a finish for your parts, it's important to remember the application. If any portion will be exposed to sunlight, you'll want to make sure you finish the part with a UV protectant.
 
-In the past I’ve utilized a [2k rattle can clear coat](https://amzn.to/2EsvtIV). This is a reliable option and leaves a super strong glossy finish. Unfortunately, you only get about 48 hours of use out of a single can. At over $20 a pop, this gets expensive quick! And to make matters worse, you only get one or two shots to do it right as you probably won't have enough time to re-coat if there's any sanding needed.
+In the past I’ve utilized a [2k rattle can clear coat](https://www.amazon.com/U-S-Chemical-Plastics-4333062164-Spraymax/dp/B0043B7UQY). This is a reliable option and leaves a super strong glossy finish. Unfortunately, you only get about 48 hours of use out of a single can. At over $20 a pop, this gets expensive quick! And to make matters worse, you only get one or two shots to do it right as you probably won't have enough time to re-coat if there's any sanding needed.
 
 Because of these limitations, I've been experimenting with a UV-resistant epoxy from Composite Envisions - [UVPoxy](https://compositeenvisions.com/ecopoxy-uvpoxy/). The main benefit of this solution being you can mix only what you need, and there’s less pressure to get a perfect finish the first time round.
 

@@ -111,7 +111,7 @@ Next, I removed the door speaker and pulled back the factory vapor barrier to ac
 
 ![Applying deadening to the door panel cont.](https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_11.jpg)
 
-When I [deadened my Fiesta](/sound-deadening-the-fiesta-st) I used the blunt end of a screwdriver handle to level and seal the dampener.  This time around, I invested in a [quality roller](http://amzn.to/2gxmLu9) from Amazon and boy was it worth it!
+When I [deadened my Fiesta](/sound-deadening-the-fiesta-st) I used the blunt end of a screwdriver handle to level and seal the dampener.  This time around, I invested in a quality roller from Amazon and boy was it worth it!
 
 ![Tools used](https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_7.jpg)
 

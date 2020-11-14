@@ -20,7 +20,7 @@ While this **looks** great on paper, how does it translate to everyday drivabili
 
 Unfortunately, while the engagement and overall feel of the shifter has been improved (compared to the 2014 and 2017 WRXs I've driven), there's still a TON of side-to-side movement when the car is in gear, primarily in first and second.  Fortunately, this isn't a new issue for the WRX, so there's already a healthy selection of aftermarket solutions to choose from.
 
-I ended up going with the [Perrin Shift Stop](http://amzn.to/2xSmzjw) because...well pretty much everyone on the Internet recommends it.
+I ended up going with the [Perrin Shift Stop](https://www.perrin.com/shop/shifters/shifter-stop) because...well pretty much everyone on the Internet recommends it.
 
 The Shift Stop itself is very solid - adorned only with a small Perrin logo.  All the necessary hardware and instructions are included, and installation was super straightforward.
 

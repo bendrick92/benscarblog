@@ -59,11 +59,11 @@ Despite of my terrible driving, we made it home safe and sound with no major hic
 
 With the afternoon free and the car home, I decided to get started "dialing it in".  My plan of attack consisted of the following steps:
 
-* Rinse down with <a href="http://amzn.to/2xCaizQ">Iron X</a> to decontaminate
+* Rinse down with Iron X to decontaminate
 * Two bucket foam gun wash
 * Microfiber dry w/ quick detailer wipe-down
 * Polish and paint correction
-* Seal with <a href="http://amzn.to/2xC0KVf">Collinite 845</a> and <a href="http://amzn.to/2wt3yPv">Optimum Opti-Seal</a>
+* Seal with Collinite 845 and Optimum Opti-Seal
 
 Despite my best efforts, the dealership had washed the car before the handover.  Given the horror stories I had heard surrounding Subaru's soft paint, I expected there to be significant scratching/marring.  However, in the sunlight I was pleasantly suprised to find the car wasn't in as bad of shape as I had first thought.  There were certainly panels that needed a good polish, but with the time constraints of the afternoon in mind, I decided to leave that for the weekend.
 
@@ -113,7 +113,7 @@ With the polishing complete, the car was ready for a coat of sealant and wax.
 
 #### Dialing It In - Protection and Sealant
 
-Through experimentation on my Fiesta ST over the prior few weeks, I had found a layer of <a href="http://amzn.to/2xC0KVf">Collinite 845</a> sealant followed by a wipe down with <a href="http://amzn.to/2wt3yPv">Optimum Opti-Seal</a> provided awesome results.  With this in mind, I laid down a generous layer of 845.
+Through experimentation on my Fiesta ST over the prior few weeks, I had found a layer of Collinite 845 sealant followed by a wipe down with Optimum Opti-Seal provided awesome results.  With this in mind, I laid down a generous layer of 845.
 
 ![Applying Collinite](https://assets.bpwalters.com/images/bens_car_blog/wrx_collinite_1.jpg)
 
@@ -125,7 +125,7 @@ With the Collinite cured and buffed off, I moved on to the Opti-Seal application
 
 In the past few months, I've grown to love Optimum's products.  From No Rinse to Opti-Seal, they have all been extremely easy to use, effective, and provide awesome long-lasting protection.  With ONR + Opti-Seal, I've been able to cut my weekly wash down to less than an hour, and brought the "fun" back to detailing.
 
-Pegged as a "Wipe On Walk Away" (WOWA) product, <a href="http://amzn.to/2wt3yPv">Optimum Opti-Seal</a> is designed to create a highly hydrophobic layer of synthetic protection.  In addition, it's can be used to compliment Optimium No Rinse as a drying aid, allowing for a stupidly simple wash process.  It's a highly concentrated product, so a single spritz is more than enough to coat an entire panel.
+Pegged as a "Wipe On Walk Away" (WOWA) product, Optimum Opti-Seal is designed to create a highly hydrophobic layer of synthetic protection.  In addition, it's can be used to compliment Optimium No Rinse as a drying aid, allowing for a stupidly simple wash process.  It's a highly concentrated product, so a single spritz is more than enough to coat an entire panel.
 
 ![Opti-Seal applied](https://assets.bpwalters.com/images/bens_car_blog/wrx_opti_seal_1.jpg)
 

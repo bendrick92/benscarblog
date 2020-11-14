@@ -14,7 +14,7 @@ Regardless, the weekly wash is something I don't take lightly - it helps maintai
 
 ![Winter in Minnesota](https://assets.bpwalters.com/images/bens_car_blog/winter_maintenance_wash/fiesta_st_snow.jpg)
 
-I've professed my love for [Optimum No Rinse](http://amzn.to/2hU5SKC) before, but I can't understate how much flexibility it's added to my routine.  Before ONR, I used to take my cars through a touchless wash at least once a week in the winter.  While this did a great job of blasting off the road, salt, and grime buildup, it did an equally awesome job at stripping away any protective coatings or waxes that were on the car.  Thanks to ONR, I'm able to forgo the harsh chemicals and soaps used by the touchless wash!
+I've professed my love for [Optimum No Rinse](https://www.autogeek.net/optimum-no-rinse.html) before, but I can't understate how much flexibility it's added to my routine.  Before ONR, I used to take my cars through a touchless wash at least once a week in the winter.  While this did a great job of blasting off the road, salt, and grime buildup, it did an equally awesome job at stripping away any protective coatings or waxes that were on the car.  Thanks to ONR, I'm able to forgo the harsh chemicals and soaps used by the touchless wash!
 
 ![Optimum No Rinse](https://assets.bpwalters.com/images/bens_car_blog/winter_maintenance_wash/optimum_no_rinse.jpg)
 
@@ -22,11 +22,11 @@ Prior to any ONR touching the car, I'll run over to a nearby self-serve bay to g
 
 ![Self-serve wash](https://assets.bpwalters.com/images/bens_car_blog/winter_maintenance_wash/self_serve_wash.jpg)
 
-Once I'm back home in my garage, I'll pour about two cap fulls of ONR into a five gallon bucket with [Grit Guards](http://amzn.to/2iRFlOV) (the Grit Guards are optional but highly recommended).  Then, using a bathtub or sink, I fill the bucket about half-full of warm water.  You can certainly use hose water too, but don't email me when you lose feeling in your fingers.
+Once I'm back home in my garage, I'll pour about two cap fulls of ONR into a five gallon bucket with [Grit Guards](https://www.autogeek.net/grit-guard-washboard-combo.html) (the Grit Guards are optional but highly recommended).  Then, using a bathtub or sink, I fill the bucket about half-full of warm water.  You can certainly use hose water too, but don't email me when you lose feeling in your fingers.
 
 ![Filling the bucket](https://assets.bpwalters.com/images/bens_car_blog/winter_maintenance_wash/filling_bucket.jpg)
 
-Next, you want to make sure you've got enough microfiber towels of the right type for the job at hand.  I've had a great experience with The Rag Company's [Minx towels](http://amzn.to/2nkF2kw) from Amazon for rinseless washes, but most any soft, high-pile microfiber towel will do.  With a towel in-hand, go ahead and dunk it into the warm ONR solution.  You'll want to completely submerge it to get a fully saturated towel.  Then, ring out about 80% of the water and fold the towel into fourths.
+Next, you want to make sure you've got enough microfiber towels of the right type for the job at hand.  I've had a great experience with The Rag Company's [Minx towels](https://www.theragcompany.com/16-x-16-purple-minx-royale-plush-microfiber-towel/) for rinseless washes, but most any soft, high-pile microfiber towel will do.  With a towel in-hand, go ahead and dunk it into the warm ONR solution.  You'll want to completely submerge it to get a fully saturated towel.  Then, ring out about 80% of the water and fold the towel into fourths.
 
 Starting at the top of the car (the roof), gently glide the towel over the surface of the paint - NOTE: You don't need to apply a ton of pressure; at this point, most of the heavy dirt should already be washed off from the prior rinsing! Letting the ONR solution lift the dirt, make a few straight passes until one side of the towel is filled with dirt, re-fold to a clean side, and repeat!
 
@@ -34,7 +34,7 @@ Starting at the top of the car (the roof), gently glide the towel over the surfa
 
 ![ONR wipe down](https://assets.bpwalters.com/images/bens_car_blog/winter_maintenance_wash/onr_wipe_down_2.jpg)
 
-Once you run out of clean towel, dunk the soiled towel back into the bucket and scrub it against the grit guard screen to release the trapped dirt.  If you have one, a [Grit Guard Washboard](http://amzn.to/2jZ4OJO) makes this process a WHOLE lot easier.  Once the towel has been thoroughly scrubbed clean, wring and rinse it a few times before moving on to the next panel.
+Once you run out of clean towel, dunk the soiled towel back into the bucket and scrub it against the grit guard screen to release the trapped dirt.  If you have one, a [Grit Guard Washboard](https://www.autogeek.net/grit-guard-washboard-combo.html) makes this process a WHOLE lot easier.  Once the towel has been thoroughly scrubbed clean, wring and rinse it a few times before moving on to the next panel.
 
 ![Soaking the ONR towel](https://assets.bpwalters.com/images/bens_car_blog/winter_maintenance_wash/onr_bucket.jpg)
 
@@ -44,11 +44,11 @@ It's best to use a fresh towel for each panel/area of the car, but I'll usually 
 
 ![Door jam after](https://assets.bpwalters.com/images/bens_car_blog/winter_maintenance_wash/onr_door_sills_after.jpg)
 
-Depending on the ambient temperature, you'll want to pause after cleaning a few panels to dry them off with a separate set of clean [microfibers](http://amzn.to/2i6QlHn) and some spray lubricant.  Almost any quick detailer will work here, but in my opinion you can't beat the bang for the buck results of [Griots Garage Speed Shine](http://amzn.to/2AiMaCK).
+Depending on the ambient temperature, you'll want to pause after cleaning a few panels to dry them off with a separate set of clean [microfibers](https://www.ammonyc.com/shop/microfiber-towels/) and some spray lubricant.  Almost any quick detailer will work here, but in my opinion you can't beat the bang for the buck results of [Griots Garage Speed Shine](https://www.autogeek.net/griots-speed-shine-detailer.html).
 
 ![Griots Garage Speed Shine](https://assets.bpwalters.com/images/bens_car_blog/winter_maintenance_wash/griots_quick_detailer.jpg)
 
-You can pick up pre-diluted gallon jugs on [Amazon](http://amzn.to/2jEuKX9), and it has an awesome smell to boot.  Most importantly though, it provides a slick surface for your microfiber towels and helps prevent unnecessary friction between the towel and paint.
+You can pick up pre-diluted [gallon jugs](https://www.autogeek.net/griots-speed-shine-gallon.html) if you're looking for bulk, and it has an awesome smell to boot.  Most importantly though, it provides a slick surface for your microfiber towels and helps prevent unnecessary friction between the towel and paint.
 
 Once the entire car has been ONR'ed and dried, I'll use a few spritzes of Optimum Opti-Seal on panels with XPEL film as well as the glass (don't forget to clean your wiper blades!).  I've found Opti-Seal does a better job of not streaking than a traditional glass cleaner (i.e. Invisible Glass).  For unprotected, painted panels I'll do a quick inspection and re-application of Finish Kare 1000P if necessary.  Both products are stupid easy to apply and I can usually crank out a full coating on the car in less than 20 minutes.
 

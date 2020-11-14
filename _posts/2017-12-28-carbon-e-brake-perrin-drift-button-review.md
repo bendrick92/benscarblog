@@ -14,7 +14,7 @@ image: https://assets.bpwalters.com/images/bens_car_blog/carbon_ebrake/wrx_carbo
 
 Being a manual transmission, the e-brake is one of the items I touch most often when driving the car.  Unfortunately, the OEM rubber and chrome e-brake handle and button leave a lot to be desired.  As a result, a replacement carbon fiber handle and button were high on my Christmas list this year.
 
-Well, Santa delivered and both the [handle](http://amzn.to/2Ci0Fpa) and a [Perrin Drift Button](http://www.subispeed.com/2015-subaru-sti/interior/e-brake-accessories/perrin-e-brake-replacement-button-silver-or-black-2015-wrx-2015-sti) were under the Christmas tree Monday morning!
+Well, Santa delivered and both the [handle](https://www.subispeed.com/part/ebrake-cf-gcs-carbon-fiber-e-brake-replacement-handle-2015-wrx-2015-sti-2013-ft86#.X63oRy9h124) and a [Perrin Drift Button](http://www.subispeed.com/2015-subaru-sti/interior/e-brake-accessories/perrin-e-brake-replacement-button-silver-or-black-2015-wrx-2015-sti) were under the Christmas tree Monday morning!
 
 ![Carbon fiber e-brake](https://assets.bpwalters.com/images/bens_car_blog/carbon_ebrake/wrx_carbon_ebrake.jpg)
 
@@ -44,6 +44,4 @@ With everything installed, I'm pretty happy with the resulting look.  The carbon
 
 ![Carbon e-brake handle and Perrin button installed](https://assets.bpwalters.com/images/bens_car_blog/carbon_ebrake/wrx_carbon_ebrake_3.jpg)
 
-If you'd like to pick the handle/button up yourself, they can be found on Amazon [here](http://amzn.to/2Ci0Fpa) and Subispeed [here](http://www.subispeed.com/2015-subaru-sti/interior/e-brake-accessories/perrin-e-brake-replacement-button-silver-or-black-2015-wrx-2015-sti), respectively.
-
-NOTE: The handle can also be found over at Subispeed, but the exact same item can be picked up on Amazon for much less!
+If you'd like to pick the handle/button up yourself, they can be found on Subispeed [here](https://www.subispeed.com/part/ebrake-cf-gcs-carbon-fiber-e-brake-replacement-handle-2015-wrx-2015-sti-2013-ft86#.X63oRy9h124) and [here](http://www.subispeed.com/2015-subaru-sti/interior/e-brake-accessories/perrin-e-brake-replacement-button-silver-or-black-2015-wrx-2015-sti), respectively.
