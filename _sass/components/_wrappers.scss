@@ -76,6 +76,12 @@
         }
     }
 }
+.alert-wrapper {
+    display: inline-block;
+}
+.button-wrapper {
+    display: inline-block;
+}
 
 @include phone-and-tablet {
     .inline-image-wrapper {

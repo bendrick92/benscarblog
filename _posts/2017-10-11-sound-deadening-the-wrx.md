@@ -6,6 +6,7 @@ categories:
 - wrx
 - guides
 image: https://assets.bpwalters.com/images/bens_car_blog/wrx_deadening_39.jpg
+featured: true
 ---
 
 <span class="is-first-letter">I</span>t's been a few weeks since I [picked up my WRX](/taking-delivery-of-my-wrx), so I've had some time to feel out its strengths and weaknesses.  I've taken the car on a few multi-hour road trips, cruised it through some windy backroads, and commuted back and forth to work each day.

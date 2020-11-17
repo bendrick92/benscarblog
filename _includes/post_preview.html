@@ -1,13 +1,12 @@
 <div class="post-preview">
-    <div class="post-preview-image">
-        <div class="background-link-wrapper">
-            <a href="{{ post.url }}">{{ post.title }}</a>
-        </div>
-        <div class="background-image-wrapper is-dark">
-            <div class="is-semi-opaque" style="background-image: url('{{ post.image }}');"></div>
-        </div>
+    <div class="background-link-wrapper">
+        <a href="{{ post.url }}">{{ post.title }}</a>
     </div>
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p class="is-subheading">{{ post.date | date: '%B %d, %Y' }}</p>
-    <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+    <div class="background-image-wrapper is-dark">
+        <div class="is-semi-opaque" style="background-image: url('{{ post.image }}');"></div>
+    </div>
+    <div class="post-label">
+        <p class="is-subheading is-bold">{{ post.date | date: '%B %d, %Y' }}</p>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    </div>
 </div>

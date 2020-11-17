@@ -60,6 +60,23 @@
 .is-inline-icon {
     margin-right: .5rem;
 }
+.is-flex-button {
+    display: flex;
+    align-items: center;
+}
+.is-alert {
+    padding: 1em;
+    border-radius: .5em;
+    display: flex;
+    align-items: center;
+    &.is-primary-alert {
+        background-color: $blue;
+        color: $white;
+    }
+    > p:last-child {
+        margin-bottom: 0;
+    }
+}
 .is-intro-section {
     .intro-title {
         padding: 5rem 0;

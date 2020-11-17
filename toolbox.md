@@ -131,6 +131,7 @@ power_tools_other:
     <section id="details">
         <div class="container">
             <div class="item flex-100">
+                {% include amazon_disclosure.html %}
                 <p><span class="is-first-letter">A</span>s my wife will probably attest, I spend an inordinate amount of time researching and comparing nearly everything I buy. When it comes to cars and detailing products specifically, I've always been obesessive about finding the "next best thing".</p>
                 <p>Trying out a new detailing spray or car soap all the time can be exhausting, but after buying so many over the years, I've come to appreciate what makes a truly great product. Something that not only performs well, but makes the job itself easier while being affordable.</p>
                 <p>With budget in mind, picking the outright "best" every time was never an option. I'm just an average Joe with a full-time job and bills to pay! Instead, I tend to seek out products that provide the best bang for the buck.</p>
@@ -152,11 +153,6 @@ power_tools_other:
                     <li>
                         <a href="#power-tools-&-other">Power Tools & Other</a>
                     </li>
-                </ul>
-                <h4>Disclaimer</h4>
-                <ul>
-                    <li>All of the Amazon links you see below are tied to the <a href="https://affiliate-program.amazon.com/" target="_blank">Amazon Affiliate Program</a> which provides me with a small kickback for items you purchase. This is a great way to show your support, and helps me out a ton with server fees, purchasing new products to review, etc.</li>
-                    <li>Some of the tools I recommend below are made by Milwaukee Tool. While I genuinely believe they are great in their own right, it's only fair to disclose that I do work for Milwaukee Tool. I realize not everyone is a general contractor or looking to shell out for a professional-grade tool, so please feel free to reach out if you have questions, even about potential alternatives!</li>
                 </ul>
             </div>
             <div class="item flex-100 is-center-aligned">

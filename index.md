@@ -7,7 +7,7 @@ pagination:
 <section id="homepage">
     <section id="intro" class="is-intro-section">
         <div class="background-image-wrapper is-dark">
-            <div class="is-opaque" style="background-image: url('https://assets.bpwalters.com/images/bens_car_blog/xpel_ultimate_long_term/wrx_bumper.jpg');"></div>
+            <div class="is-opaque" style="background-image: url('https://assets.bpwalters.com/images/bens_car_blog/wrx_bridge.jpg');"></div>
         </div>
         <div class="container has-middle-text">
             <div class="item flex-100">
@@ -18,25 +18,26 @@ pagination:
             </div>
         </div>
     </section>
-    <section id="latest-post">
+    <section id="whats-new">
         <div class="container">
             <div class="item flex-100 is-center-aligned">
-                <h1>What's New</h1>
+                <h1>New Stuff</h1>
             </div>
-            {% for post in site.posts limit: 1 %}
-                <div class="item flex-100 first-post">
+            {% for post in site.posts limit: 2 %}
+                <div class="item flex-50">
                     {% include post_preview.html %}
                 </div>
             {% endfor %}
         </div>
     </section>
     {% include subscribe_section.html %}
-    <section id="other-posts">
+    <section id="popular">
         <div class="container">
             <div class="item flex-100 is-center-aligned">
-                <h1>Other Posts</h1>
+                <h1>Popular Stuff</h1>
             </div>
-            {% for post in site.posts offset: 1 %}
+            {% assign featured_posts = site.posts | where:"featured", "true" %}
+            {% for post in featured_posts %}
                 <div class="item flex-50">
                     {% include post_preview.html %}
                 </div>
@@ -44,4 +45,16 @@ pagination:
         </div>
     </section>
     {% include support_section.html %}
+    <section id="other-stuff">
+        <div class="container">
+            <div class="item flex-100 is-center-aligned">
+                <h1>Other Stuff</h1>
+            </div>
+            {% for post in site.posts offset: 3 %}
+                <div class="item flex-50">
+                    {% include post_preview.html %}
+                </div>
+            {% endfor %}
+        </div>
+    </section>
 </section>

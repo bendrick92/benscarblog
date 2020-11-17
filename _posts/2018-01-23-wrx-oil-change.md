@@ -6,6 +6,7 @@ categories:
 - wrx
 - guides
 image: https://assets.bpwalters.com/images/bens_car_blog/wrx_oil_change/oil_supplies_unboxed.jpg
+featured: true
 ---
 
 <span class="is-first-letter">E</span>arlier this month the WRX rolled over its 7k mark, meaning it was time for a second oil change - the first DIY!  While I have planned to do as much DIY maintenance as possible, for the first oil change back at 3k I redeemed a freebie with the dealership.  Unfortunately, the technician must not have been familiar with the feel of the Perrin shift stop and completely loosened it out of alignment prior to handing the car back over.  Needless to say I was excited to do my own oil change this time around...

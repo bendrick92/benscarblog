@@ -7,6 +7,7 @@ categories:
 - guides
 - wrx
 image: https://assets.bpwalters.com/images/bens_car_blog/diy_carbon_fiber/carbon_bezel_installed.jpg
+featured: true
 ---
 
 <span class="is-first-letter">C</span>arbon fiber has always been appealing to me. Aesthetically, there's just something about a well-crafted piece; the way the sun can catches the weave, highlighting the oddly satisfying, endlessly-repeating pattern. Functionally, parts constructed from composite materials are as strong as they are beautiful to look at. If you've ever picked up a finished carbon part, you know what I mean when I say its hard to imagine something being so strong yet so light!
