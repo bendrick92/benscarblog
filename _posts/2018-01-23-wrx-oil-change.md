@@ -11,6 +11,10 @@ featured: true
 
 <span class="is-first-letter">E</span>arlier this month the WRX rolled over its 7k mark, meaning it was time for a second oil change - the first DIY!  While I have planned to do as much DIY maintenance as possible, for the first oil change back at 3k I redeemed a freebie with the dealership.  Unfortunately, the technician must not have been familiar with the feel of the Perrin shift stop and completely loosened it out of alignment prior to handing the car back over.  Needless to say I was excited to do my own oil change this time around...
 
+*EDIT 12/03/20: I've put together a downloadable PDF version of this post with step-by-step instructions, tools, part lists, and helpful tips/pictures! You can download the guide <a href="/downloads/oil-change-guide" target="_blank">here</a>!*
+
+![Downloadable PDF guide](https://assets.bpwalters.com/images/bens_car_blog/wrx_oil_change/oil_change_guide.png)
+
 After a few days researching various oils online, I came to the realization there is absolutely no consensus on the best aftermarket oil for the FA20 - as evidenced by a [130+ page discussion](https://downtime.nasioc.com/forums/showthread.php?t=2657990) on oil over on NASIOC.
 
 Owners of older EJ motors insist that Rotella T6 5W-40 is better for the engine, but I remain unconvinced a lighter oil is better for the FA than the factory recommended 5W-30.  Similarly, it seems people have had good results with Penzoil Ultra Platinum 5W-30, but it's difficult to find and not much cheaper than OEM in many places.  In the end, I decided to play it safe and roll with the OEM Idemitsu oil for now.  If bought in bulk, it's pretty affordable!  I picked up a case (12 one quart bottles) of oil, two filters, and two crush washers from my dealership for $94.48 - just under $50 per oil change.
@@ -26,6 +30,12 @@ I backed the car into the garage and chocked the rear wheels.  Having only jacke
 ![Jacking up the car](https://assets.bpwalters.com/images/bens_car_blog/wrx_oil_change/jacking.jpg)
 
 NOTE: I realize that jacking up one side of the car isn't ideal, and there's a decent possibility not all of the old oil was able to drain out.  However, given the circumstances it was a compromise I was willing to make.
+
+*UPDATE 12/03/20: After some more research, I've started using the WRX's front jacking point - located just behind the headers. This is much more convenient since I only have to jack the car up in one place, but does require a beefier floor jack:*
+
+![The WRX's front jacking plate](https://assets.bpwalters.com/images/bens_car_blog/wrx_oil_change/wrx_front_jack_plate.jpg)
+
+![The WRX's front jacking plate](https://assets.bpwalters.com/images/bens_car_blog/wrx_oil_change/wrx_front_jack_plate_2.jpg)
 
 Next, I popped the hood and unscrewed the oil filter.  I seriously want to kiss whatever engineer at Subaru designed the top-facing oil filter.  Even though I needed to break out the filter wrench, breaking the thing loose is INFINITELY easier standing up than it is laying on your back.  Ford engineers, take note.
 

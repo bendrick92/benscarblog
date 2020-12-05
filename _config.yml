@@ -42,6 +42,9 @@ collections:
   cars:
     output: true
     permalink: /garage/:title/
+  docs:
+    output: true
+    permalink: /downloads/:title/
 
 #jekyll-lazy-load-image
 lazy_load_image:
