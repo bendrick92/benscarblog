@@ -16,7 +16,7 @@ With this in mind, when I picked up my WRX almost two years ago, I had set aside
 
 In this post I want to share my thoughts on how my investment has held up over the last 24 months, as well as share a few of the pros/cons of going with a paint protection film in the first place. I've had a bunch of folks reach out to me with questions about my experience, so I'll do my best to summarize everything below.
 
-TL;DR: Would I spend the money on the XPEL film again? Yes, in a heartbeat. And here's a few reasons why:
+TL;DR: Would I spend the money on the XPEL film again? **Absolutely yes!** And here's a few reasons why:
 
 #### Subaru Paint
 

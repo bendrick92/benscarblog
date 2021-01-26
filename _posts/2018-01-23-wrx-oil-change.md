@@ -11,7 +11,7 @@ featured: true
 
 <span class="is-first-letter">E</span>arlier this month the WRX rolled over its 7k mark, meaning it was time for a second oil change - the first DIY!  While I have planned to do as much DIY maintenance as possible, for the first oil change back at 3k I redeemed a freebie with the dealership.  Unfortunately, the technician must not have been familiar with the feel of the Perrin shift stop and completely loosened it out of alignment prior to handing the car back over.  Needless to say I was excited to do my own oil change this time around...
 
-*EDIT 12/03/20: I've put together a downloadable PDF version of this post with step-by-step instructions, tools, part lists, and helpful tips/pictures! You can download the guide <a href="/downloads/oil-change-guide" target="_blank">here</a>!*
+*Update - December 2020: I've put together a downloadable PDF version of this post with step-by-step instructions, tools, part lists, and helpful tips/pictures! You can download the guide <a href="/downloads/oil-change-guide" target="_blank">here</a>!*
 
 ![Downloadable PDF guide](https://assets.bpwalters.com/images/bens_car_blog/wrx_oil_change/oil_change_guide.png)
 
@@ -31,7 +31,7 @@ I backed the car into the garage and chocked the rear wheels.  Having only jacke
 
 NOTE: I realize that jacking up one side of the car isn't ideal, and there's a decent possibility not all of the old oil was able to drain out.  However, given the circumstances it was a compromise I was willing to make.
 
-*UPDATE 12/03/20: After some more research, I've started using the WRX's front jacking point - located just behind the headers. This is much more convenient since I only have to jack the car up in one place, but does require a beefier floor jack:*
+*Update - December 2020: After some more research, I've started using the WRX's front jacking point - located just behind the headers. This is much more convenient since I only have to jack the car up in one place, but does require a beefier floor jack:*
 
 ![The WRX's front jacking plate](https://assets.bpwalters.com/images/bens_car_blog/wrx_oil_change/wrx_front_jack_plate.jpg)
 

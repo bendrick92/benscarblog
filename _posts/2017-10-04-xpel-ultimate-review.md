@@ -10,10 +10,11 @@ image: https://assets.bpwalters.com/images/bens_car_blog/xpel_front.jpg
 
 <span class="is-first-letter">I</span>n the months leading up to the delivery of my WRX, I spent a fair amount of time researching what kinds of mods/upgrades most owners recommend.  One of the most frequently mentioned was paint protection film (AKA "clear bra") for the front of the car.
 
+*Update - September 2019: I've put together some long-term thoughts after almost two years with the XPEL! You can check them out [here](/xpel-ultimate-long-term-review).*
+
 I had seen countless pictures and forum threads complaining how easily the WRX's front bumper and hood gather rock chips.  I'd seen suggestions that this is due to the thinner, water-based paints that Subaru uses, and while I can't substantiate this claim with any scientific proof, I can say that my Fiesta ST gathered a whole LOTTA chips on it's front bumper and hood over the three years I owned it.
 
 ![Fiesta ST front bumper](https://assets.bpwalters.com/images/bens_car_blog/fiesta_front_plate_1.jpg)
-
 
 Thankfully due to the black paint and darker primer/plastic underneath, the chips weren't obvious, but that didn't make them any less painful to wash or detail.
 
