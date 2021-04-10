@@ -1,20 +1,15 @@
 ---
 layout: default
 photography_gear:
-- title: Sony A7II
-  description: Choosing an upgrade from my old Canon DSLR was not an easy decision. After weeks of research and testing out different cameras, I settled on a used Sony A7II. The compact size, integrated stabilization, and detail captured by the full-frame sensor are hard to beat, especially considering the price of a used model! The only downside has been the cost of lenses, but there are some excellent budget options (see below).
-  link: https://amzn.to/2XoHXu9
-  image: https://assets.bpwalters.com/images/bens_car_blog/tools/a7ii.jpg
+- title: Fujifilm X-Pro2
+  description: The quriky X-Pro2 isn't for everyone, but with a focus on minimal aesthetics, usability, and build quality, it's the perfect tool for anyone who loves the experience of photography. As a casual shooter (this being my only camera), I chose the X-Pro2 over the competition simply because it makes taking pictures FUN.
+  link: https://amzn.to/3d4Frz8
+  image: https://assets.bpwalters.com/images/bens_car_blog/tools/xpro2.jpg
   buttonLabel: Buy on Amazon
-- title: Sony 50mm f/1.8 Lens
-  description: The "nifty fifty" is the perfect lens for automotive photography.  With an f/1.8 aperture, you can get some awesome depth of field effects. The only downside is the 50mm focal length means you have to step back a ways from your subject, which can be a challenge at crowded car shows. But if I could only keep one lens it'd be this one!
-  link: https://amzn.to/2Jlw3XM
-  image: https://assets.bpwalters.com/images/bens_car_blog/tools/sony_50mm.jpg
-  buttonLabel: Buy on Amazon
-- title: A7II Thumb Grip
-  description: Making the switch from my bulky DSLR, one of the things I immediately noticed was how hard it was to grip the smaller A7II for long periods. A couple car shows and cramped fingers later, I picked up this simple aluminum thumb grip which mounts in the hot shoe slot and significantly improves the ergonomics. It should really come this way from the factory!
-  link: https://amzn.to/3gkcpL7
-  image: https://assets.bpwalters.com/images/bens_car_blog/tools/a7ii_thumb.jpg
+- title: Fujifilm XF 35mm f/1.4
+  description: One of the most commonly recommended Fuji lenses, the XF 35mm f/1.4 lens is equivalent to a "nifty fifty" on a full frame camera. Not only is it extremely versatile, but there's an intangible "magic" to the images this lens captures. I haven't taken this lens off my X-Pro2 since I bought it!
+  link: https://amzn.to/3d95y80
+  image: https://assets.bpwalters.com/images/bens_car_blog/tools/xf35.jpg
   buttonLabel: Buy on Amazon
 - title: B+W Circular Polarizer
   description: A near-necessity if you're photographing cars, a circular polarizer (CPL) cuts reflections and glare on windows and body panels. A good quality one will provide a sharper image and better polarization than cheaper ones.
