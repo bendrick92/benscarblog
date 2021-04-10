@@ -91,3 +91,5 @@ For now, the best camera I’ve got is the one on my iPhone XS. And while can’
 That being said, I do fully expect to pick up another mirrorless camera come spring. I have one in particular in mind…let me know if you can guess what it is!
 
 Until then, I’ll be appreciating slowing down and reminding myself why I came to love photography in the first place.
+
+*Update - April 2021: I purchased a replacement for the Sony! Read more about it [here](/why-i-bought-a-fujifilm-xpro2)*
