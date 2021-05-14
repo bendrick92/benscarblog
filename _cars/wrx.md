@@ -27,10 +27,12 @@ mods:
 - JDM grocery hook
 - "[Custom carbon-wrapped shifter trim](/diy-carbon-fiber)"
 - Blacked out vent trim
-- Rays Gram Lights 57DR (18x9.5 +38) + General G-MAX RS (255/35ZR-18)
+- "[Rays Gram Lights 57DR (18x9.5 +38) + General G-MAX RS (255/35ZR-18)](/powder-coating-my-wheels)"
 - HT Autos side skirts, rear spats
 - OLM LED black turn signal housings
 - "[COBB Accessport V3 w/ MAPerformance Stage 1 Tune](/cobb-accessport-review/)"
+- KNS Brake Rotors w/ Hawk HPS 5.0 pads
+- COBB SS 3" cat-back exhaust 
 ---
 
 <section id="wrx" class="car">
