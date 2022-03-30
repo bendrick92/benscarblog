@@ -51,9 +51,11 @@ mods:
     <section id="history">
         <div class="container">
             <div class="item flex-100">
-                <p><span class="is-first-letter">I</span>n early July 2017 I fulfilled a life-long dream and <a href="/buying-a-wrx">placed an order</a> for a 2018 WRX; a Premium in Lapis Blue Pearl.  After 9 long weeks of waiting, I <a href="/taking-delivery-of-my-wrx">took delivery</a> of the car!</p>
+                <p><span class="is-first-letter">I</span>n early July 2017 I fulfilled a life-long dream and <a href="/buying-a-wrx">placed an order</a> for a 2018 WRX; a Premium in Lapis Blue Pearl.</p>
                 <p><img src="https://assets.bpwalters.com/images/bens_car_blog/wrx_dealership.jpg"></p>
-                <p>While I still miss my Fiesta ST, the WRX has neatly filled that void and proven itself to be a much more practical daily driver without sacrificing too many of the things that made the ST great.</p>
+                <p>The WRX neatly filled the void left when I sold my <a href="/garage/fiesta-st">Fiesta ST</a>, and proved itself to be a much more practical daily driver without sacrificing too many of the things that made the ST great.</p>
+                <p>I had a great four and a half years with the WRX, but as I hit 30, I realized my priorities and interests were so different, I needed a car that better suited my, and my families needs. So in March 2022 I decided to <a href="/wrx-goodbye">trade in the WRX</a> for a <a href="/wrx-replacement">2022 Legacy Touring XT</a>.</p>
+                <p>I'll always consider the WRX my "attainable dream car", and absolutely appreciated every day I was able to drive it!</p>
                 <p>For more posts on the WRX, check out list below (in chronological order):</p>
                 <ul>
                     {% for post in site.categories.wrx reversed %}
@@ -69,7 +71,7 @@ mods:
         <div class="container">
             <div class="item flex-100">
                 <h2 class="is-center-aligned">Modifications</h2>
-                <p>My main focus in modding the WRX has been to add refinement and features I've felt were missing from the factory.  While most of the mods have been aesthetic up to this point, I do plan to add a bit of power down the road.  For now, I'll enjoy that warranty while I still can! ;)</p>
+                <p>My main focus when modding the WRX was to add refinement and features I felt were missing from the factory. While most of the mods were aesthetic, I did eventually do a few <a href="/cobb-accessport-review">performance mods</a>.</p>
                 <p>Below is a complete list of mods with links to relevant posts:</p>
                 <ul>
                     {% for mod in page.mods %}
