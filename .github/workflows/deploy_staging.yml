@@ -3,24 +3,17 @@ name: Deploy to Staging
 on:
   push:
     branches: [ master ]
-    
-permissions:
-  contents: write
-  pages: write
-  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2
-        bundler-cache: true
-    - uses: limjh16/jekyll-action-ts@v2
-      with:
-        enable_cache: true
+    - uses: actions/checkout@v2
+    - name: Build
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod a+w /srv/jekyll/Gemfile.lock && chmod 777 /srv/jekyll && jekyll build --future"
     - uses: jakejarvis/s3-sync-action@master
       name: Push to S3
       with:
