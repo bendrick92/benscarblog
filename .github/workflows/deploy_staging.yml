@@ -3,23 +3,24 @@ name: Deploy to Staging
 on:
   push:
     branches: [ master ]
+    
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/cache@v2
+    - uses: actions/checkout@v3
+    - uses: ruby/setup-ruby@v1
       with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
-    - uses: helaili/jekyll-action@2.0.5
+        ruby-version: 3.1
+        bundler-cache: true
+    - uses: limjh16/jekyll-action-ts@v2
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        enable_cache: true
     - uses: jakejarvis/s3-sync-action@master
       name: Push to S3
       with:
